@@ -1,0 +1,16 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(GradeSchoolTest, org.scalatest.tools.Framework$$anon$1@4ff0c6af, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGradeSchoolTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- empty school[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- add student[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- add more students in same class[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- add students to different grades[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- get students in a grade[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- get students in a non-existent grade[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- sort school[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 461 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 7[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 7, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GradeSchoolTest[0m

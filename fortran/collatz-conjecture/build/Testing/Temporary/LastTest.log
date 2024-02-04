@@ -1,0 +1,20 @@
+Start testing: Jul 22 20:37 ACST
+----------------------------------------------------------
+1/1 Testing: collatz-conjecture_test
+1/1 Test: collatz-conjecture_test
+Command: "/home/jono/Projects/exercism-solutions/fortran/collatz-conjecture/build/collatz-conjecture"
+Directory: /home/jono/Projects/exercism-solutions/fortran/collatz-conjecture/build
+"collatz-conjecture_test" start time: Jul 22 20:37 ACST
+Output:
+----------------------------------------------------------
+ Test summary: 0 of 6 tests failed
+STOP 0
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"collatz-conjecture_test" end time: Jul 22 20:37 ACST
+"collatz-conjecture_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 22 20:37 ACST

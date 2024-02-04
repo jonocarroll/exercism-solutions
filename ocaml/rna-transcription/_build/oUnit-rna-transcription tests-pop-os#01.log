@@ -1,0 +1,6 @@
+2023-11-22T06:02:38+00:00 pop-os#01 I: Start test rna-transcription tests:0:transcribes empty list.
+2023-11-22T06:02:38+00:00 pop-os#01 I: Test rna-transcription tests:0:transcribes empty list is successful.
+2023-11-22T06:02:38+00:00 pop-os#01 I: End test rna-transcription tests:0:transcribes empty list.
+2023-11-22T06:02:39+00:00 pop-os#01 I: Start test rna-transcription tests:4:transcribes thymidine.
+2023-11-22T06:02:39+00:00 pop-os#01 I: Test rna-transcription tests:4:transcribes thymidine is successful.
+2023-11-22T06:02:39+00:00 pop-os#01 I: End test rna-transcription tests:4:transcribes thymidine.

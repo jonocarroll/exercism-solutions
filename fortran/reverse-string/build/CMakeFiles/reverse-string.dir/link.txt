@@ -1,0 +1,1 @@
+/usr/bin/f95 -std=f2008 -W -Wall -Wextra -pedantic -fbacktrace -g CMakeFiles/reverse-string.dir/reverse_string.f90.o CMakeFiles/reverse-string.dir/reverse_string_test.f90.o -o reverse-string  testlib/libTesterMain.a 

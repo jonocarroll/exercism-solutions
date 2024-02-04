@@ -1,0 +1,20 @@
+Start testing: Jul 20 22:00 ACST
+----------------------------------------------------------
+1/1 Testing: hamming_test
+1/1 Test: hamming_test
+Command: "/home/jono/Projects/exercism-solutions/fortran/hamming/build/hamming"
+Directory: /home/jono/Projects/exercism-solutions/fortran/hamming/build
+"hamming_test" start time: Jul 20 22:00 ACST
+Output:
+----------------------------------------------------------
+ Test summary: 0 of 18 tests failed
+STOP 0
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"hamming_test" end time: Jul 20 22:00 ACST
+"hamming_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 20 22:00 ACST

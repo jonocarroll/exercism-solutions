@@ -1,0 +1,6 @@
+2023-11-22T06:02:38+00:00 pop-os#02 I: Start test rna-transcription tests:1:transcribes cytidine.
+2023-11-22T06:02:39+00:00 pop-os#02 I: Test rna-transcription tests:1:transcribes cytidine is successful.
+2023-11-22T06:02:39+00:00 pop-os#02 I: End test rna-transcription tests:1:transcribes cytidine.
+2023-11-22T06:02:39+00:00 pop-os#02 I: Start test rna-transcription tests:5:transcribes multiple.
+2023-11-22T06:02:39+00:00 pop-os#02 I: Test rna-transcription tests:5:transcribes multiple is successful.
+2023-11-22T06:02:39+00:00 pop-os#02 I: End test rna-transcription tests:5:transcribes multiple.

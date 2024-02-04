@@ -1,0 +1,20 @@
+Start testing: Jul 20 22:55 ACST
+----------------------------------------------------------
+1/1 Testing: reverse-string_test
+1/1 Test: reverse-string_test
+Command: "/home/jono/Projects/exercism-solutions/fortran/reverse-string/build/reverse-string"
+Directory: /home/jono/Projects/exercism-solutions/fortran/reverse-string/build
+"reverse-string_test" start time: Jul 20 22:55 ACST
+Output:
+----------------------------------------------------------
+ Test summary: 0 of 6 tests failed
+STOP 0
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"reverse-string_test" end time: Jul 20 22:55 ACST
+"reverse-string_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 20 22:55 ACST

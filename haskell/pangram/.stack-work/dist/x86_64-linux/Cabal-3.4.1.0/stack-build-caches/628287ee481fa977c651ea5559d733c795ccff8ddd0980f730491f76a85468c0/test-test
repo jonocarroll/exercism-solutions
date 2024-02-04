@@ -1,0 +1,14 @@
+/home/jono/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/include/ghcversion.h:
+  hash: b6281754d6dc5c5462a97f01fbffb615a7d9f031384e8e8250fce23e8f43f266
+? /media/jono/ExtraDrive1/Projects/exercism-solutions/haskell/pangram/.stack-work/dist/x86_64-linux/Cabal-3.4.1.0/build/test/autogen/Paths_pangram.hs
+: hash: 65225987d77bdfbb9863831a419d7772042e8ee88c55be0fbacd7ee77a1649eb
+? /media/jono/ExtraDrive1/Projects/exercism-solutions/haskell/pangram/.stack-work/dist/x86_64-linux/Cabal-3.4.1.0/build/test/autogen/cabal_macros.h
+: hash: 2b89285ad911d4effeaed39a8b97590e9f9343f5c1755db08483987b4b820a0c
+/media/jono/ExtraDrive1/Projects/exercism-solutions/haskell/pangram/package.yaml:
+  hash: bb27d54d44cd13fe87455b5f8fd55fcdc631b7678fdfb9ba651bfc6b3c72d5ae
+/media/jono/ExtraDrive1/Projects/exercism-solutions/haskell/pangram/pangram.cabal:
+  hash: 0d22cf490547419b39b293a9ae5d5aa7e0d607541ea57ecc6c054472a15a8c1c
+/media/jono/ExtraDrive1/Projects/exercism-solutions/haskell/pangram/test/Tests.hs:
+  hash: 399f08abee0cf20bd93fa2e223a2d322471e2919924baf7d029a1e3fbe33ca01
+/usr/include/stdc-predef.h:
+  hash: cb08cd5d4cc059a90833ac48a284d25016e8d56ded8ad4cd98d8ac59cc5053f3

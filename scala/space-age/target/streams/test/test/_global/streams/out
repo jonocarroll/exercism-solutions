@@ -1,0 +1,17 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(SpaceAgeTest, org.scalatest.tools.Framework$$anon$1@27665f73, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSpaceAgeTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- age on Earth[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- age on Mercury[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- age on Venus[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- age on Mars[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- age on Jupiter[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- age on Saturn[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- age on Uranus[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- age on Neptune[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 415 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 8[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 8, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SpaceAgeTest[0m

@@ -1,0 +1,96 @@
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:1:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:1:perfect lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:1:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:6:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:6:with numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:6:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:9:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:9:case insensitive is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:9:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:13:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:13:only lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:13:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:16:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:16:with underscores is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:16:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:20:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:20:case insensitive is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:20:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:24:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:24:only lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:24:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:27:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:27:with underscores is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:27:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:31:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:31:case insensitive is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:31:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:34:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:34:perfect lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:34:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:38:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:38:with underscores is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:38:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:42:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:42:case insensitive is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:42:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:45:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:45:perfect lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:45:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:49:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:49:with underscores is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:49:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:54:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:54:a-m and A-M are 26 different characters but not a pangram is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:54:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:58:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:58:missing the letter 'x' is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:58:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:61:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:61:with numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:61:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:67:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:67:perfect lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:67:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:71:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:71:with underscores is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:71:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:74:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:74:mixed case and punctuation is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:74:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:78:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:78:perfect lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:78:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:82:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:82:with underscores is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:82:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:86:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:86:case insensitive is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:86:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:90:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:90:only lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:90:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:93:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:93:with underscores is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:93:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:97:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:97:case insensitive is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:97:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:101:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:101:only lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:101:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:104:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:104:with underscores is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:104:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:108:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:108:case insensitive is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:108:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:111:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:111:perfect lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:111:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:115:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:115:with underscores is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:115:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:119:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:119:case insensitive is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:119:case insensitive.

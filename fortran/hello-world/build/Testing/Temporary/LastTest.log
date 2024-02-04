@@ -1,0 +1,20 @@
+Start testing: Jul 20 21:21 ACST
+----------------------------------------------------------
+1/1 Testing: hello-world_test
+1/1 Test: hello-world_test
+Command: "/home/jono/Projects/exercism-solutions/fortran/hello-world/build/hello-world"
+Directory: /home/jono/Projects/exercism-solutions/fortran/hello-world/build
+"hello-world_test" start time: Jul 20 21:21 ACST
+Output:
+----------------------------------------------------------
+ Test summary: 0 of 1 tests failed
+STOP 0
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"hello-world_test" end time: Jul 20 21:21 ACST
+"hello-world_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 20 21:21 ACST

@@ -1,0 +1,14 @@
+/home/jono/.ghcup/ghc/9.0.2/lib/ghc-9.0.2/include/ghcversion.h:
+  hash: b6281754d6dc5c5462a97f01fbffb615a7d9f031384e8e8250fce23e8f43f266
+? /media/jono/ExtraDrive1/Projects/exercism-solutions/haskell/rna-transcription/.stack-work/dist/x86_64-linux/Cabal-3.4.1.0/build/autogen/Paths_rna_transcription.hs
+: hash: 36383b23bd5cdce2180734fb133f65e9db349d03edb46cbe1441b590efe7f794
+? /media/jono/ExtraDrive1/Projects/exercism-solutions/haskell/rna-transcription/.stack-work/dist/x86_64-linux/Cabal-3.4.1.0/build/autogen/cabal_macros.h
+: hash: d893878ae7a1895ab5f144898631b71ac3a580fe287bc0e23aed3d926e1dfbce
+/media/jono/ExtraDrive1/Projects/exercism-solutions/haskell/rna-transcription/package.yaml:
+  hash: 2766671ccd85c1d682ec62ec3163fcf738c20004e444c5dceb6a3207c15c6dca
+/media/jono/ExtraDrive1/Projects/exercism-solutions/haskell/rna-transcription/rna-transcription.cabal:
+  hash: c8b7b882eaccb211f319216d0fd9cd6f2b97bfbcf9a0e02745a53aa2d888be24
+/media/jono/ExtraDrive1/Projects/exercism-solutions/haskell/rna-transcription/src/DNA.hs:
+  hash: d57427282759643b8b5e3e9f529b08ca3c299d9a04784b5acb8ab7a67fec5792
+/usr/include/stdc-predef.h:
+  hash: cb08cd5d4cc059a90833ac48a284d25016e8d56ded8ad4cd98d8ac59cc5053f3

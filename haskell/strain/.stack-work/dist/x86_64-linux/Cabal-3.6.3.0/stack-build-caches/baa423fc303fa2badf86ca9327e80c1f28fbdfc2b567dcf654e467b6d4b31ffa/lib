@@ -1,0 +1,12 @@
+/home/jono/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/include/ghcversion.h:
+  hash: d590b76d2d5f98f01894882dc106d920a101f52edb6a09b9a7f8dc701b075565
+? /media/jono/ExtraDrive1/Projects/exercism-solutions/haskell/strain/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/autogen/Paths_strain.hs
+: hash: b2e2c27f6fade055829a6f140bfb129490bae9fcda83003cfe6d31b23cd64ce3
+/media/jono/ExtraDrive1/Projects/exercism-solutions/haskell/strain/package.yaml:
+  hash: bd976a75c1377a6a026616bf5ea104764f6e00c6df723db0e384fc2851c65215
+/media/jono/ExtraDrive1/Projects/exercism-solutions/haskell/strain/src/Strain.hs:
+  hash: d743c54c85c8050cea0e47382146716ef86cf2dcb63df34deafef609b7947b49
+/media/jono/ExtraDrive1/Projects/exercism-solutions/haskell/strain/strain.cabal:
+  hash: bd2c44e62de928e49d436da8d254d6474f672aed53a0c27a2e13bd43701e6e43
+/usr/include/stdc-predef.h:
+  hash: cb08cd5d4cc059a90833ac48a284d25016e8d56ded8ad4cd98d8ac59cc5053f3

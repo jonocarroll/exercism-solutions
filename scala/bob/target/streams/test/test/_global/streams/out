@@ -1,0 +1,34 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(BobTest, org.scalatest.tools.Framework$$anon$1@539883e3, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mBobTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- stating something[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- shouting[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- shouting gibberish[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- asking a question[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- asking a numeric question[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- asking gibberish[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- talking forcefully[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- using acronyms in regular speech[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- forceful question[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- shouting numbers[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- no letters[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- question with no letters[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- shouting with special characters[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- shouting with no exclamation mark[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- statement containing question mark[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- non-letters with question[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- prattling on[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- silence[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- prolonged silence[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- alternate silence[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- multiple line question[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- starting with whitespace[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- ending with whitespace[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- other whitespace[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- non-question ending with whitespace[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 439 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 25[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 25, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BobTest[0m

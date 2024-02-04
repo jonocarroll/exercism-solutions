@@ -1,0 +1,14 @@
+/home/jono/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/include/ghcversion.h:
+  hash: d590b76d2d5f98f01894882dc106d920a101f52edb6a09b9a7f8dc701b075565
+? /media/jono/ExtraDrive1/Projects/exercism-solutions/haskell/raindrops/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/autogen/Paths_raindrops.hs
+: hash: c99797e64fdbf631e3e71655a823643aab72dd01bf0bbac313c1fe66b8979f3c
+? /media/jono/ExtraDrive1/Projects/exercism-solutions/haskell/raindrops/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/autogen/cabal_macros.h
+: hash: 99bb1f57b132e587d238d9679365773df26e60489d45f95b55754747b76bbcec
+/media/jono/ExtraDrive1/Projects/exercism-solutions/haskell/raindrops/package.yaml:
+  hash: 5e356fa9e5f27409f796975cdbc3d60dae7bd9cacc4c9be751aea37d1552de7f
+/media/jono/ExtraDrive1/Projects/exercism-solutions/haskell/raindrops/raindrops.cabal:
+  hash: 26a4c8ab46c3448c5344413e043df2f8e0b0684055abdb5a6fdbc926edaa1c03
+/media/jono/ExtraDrive1/Projects/exercism-solutions/haskell/raindrops/src/Raindrops.hs:
+  hash: 227822d371c8e913a476499c9cf5ec501b3d085e0222ada36a8efa42ff50d828
+/usr/include/stdc-predef.h:
+  hash: cb08cd5d4cc059a90833ac48a284d25016e8d56ded8ad4cd98d8ac59cc5053f3

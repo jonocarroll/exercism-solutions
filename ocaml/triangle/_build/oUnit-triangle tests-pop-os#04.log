@@ -1,0 +1,12 @@
+2023-11-22T06:32:50+00:00 pop-os#04 I: Start test triangle tests:3:all zero sides is not a triangle.
+2023-11-22T06:32:50+00:00 pop-os#04 I: Test triangle tests:3:all zero sides is not a triangle is successful.
+2023-11-22T06:32:50+00:00 pop-os#04 I: End test triangle tests:3:all zero sides is not a triangle.
+2023-11-22T06:32:50+00:00 pop-os#04 I: Start test triangle tests:9:first triangle inequality violation.
+2023-11-22T06:32:50+00:00 pop-os#04 I: Test triangle tests:9:first triangle inequality violation is successful.
+2023-11-22T06:32:50+00:00 pop-os#04 I: End test triangle tests:9:first triangle inequality violation.
+2023-11-22T06:32:50+00:00 pop-os#04 I: Start test triangle tests:13:all sides are equal.
+2023-11-22T06:32:50+00:00 pop-os#04 I: Test triangle tests:13:all sides are equal is successful.
+2023-11-22T06:32:50+00:00 pop-os#04 I: End test triangle tests:13:all sides are equal.
+2023-11-22T06:32:50+00:00 pop-os#04 I: Start test triangle tests:17:may not violate triangle inequality.
+2023-11-22T06:32:50+00:00 pop-os#04 I: Test triangle tests:17:may not violate triangle inequality is successful.
+2023-11-22T06:32:50+00:00 pop-os#04 I: End test triangle tests:17:may not violate triangle inequality.

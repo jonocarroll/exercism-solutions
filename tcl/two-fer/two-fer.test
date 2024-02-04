@@ -1,0 +1,29 @@
+#!/usr/bin/env tclsh
+package require tcltest
+namespace import ::tcltest::*
+source testHelpers.tcl
+
+############################################################
+source "two-fer.tcl"
+
+test two-fer-1 {
+    no name given
+} -body {
+    two-fer
+} -result "One for you, one for me."
+
+#skip two-fer-2
+test two-fer-2 {
+    a name given
+} -body {
+    two-fer "Alice"
+} -result "One for Alice, one for me."
+
+#skip two-fer-3
+test two-fer-3 {
+    another name given
+} -body {
+    two-fer "Bob"
+} -result "One for Bob, one for me."
+
+cleanupTests

@@ -1,0 +1,20 @@
+Start testing: Jul 22 17:33 ACST
+----------------------------------------------------------
+1/1 Testing: matrix_test
+1/1 Test: matrix_test
+Command: "/home/jono/Projects/exercism-solutions/fortran/matrix/build/matrix"
+Directory: /home/jono/Projects/exercism-solutions/fortran/matrix/build
+"matrix_test" start time: Jul 22 17:33 ACST
+Output:
+----------------------------------------------------------
+ Test summary: 0 of 6 tests failed
+STOP 0
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"matrix_test" end time: Jul 22 17:33 ACST
+"matrix_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 22 17:33 ACST

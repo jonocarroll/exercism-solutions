@@ -1,0 +1,854 @@
+2023-11-22T06:43:45+00:00 pop-os#00 I: Runner: processes
+2023-11-22T06:43:45+00:00 pop-os#00 I: Chooser: simple
+2023-11-22T06:43:45+00:00 pop-os#00 I: Configuration suite_name = "pangram tests"
+2023-11-22T06:43:45+00:00 pop-os#00 I: Configuration cache_filename = "/media/jono/ExtraDrive1/Projects/exercism-solutions/ocaml/pangram/_build/oUnit-$(suite_name).cache"
+2023-11-22T06:43:45+00:00 pop-os#00 I: Configuration run_gc_full_major = "true"
+2023-11-22T06:43:45+00:00 pop-os#00 I: Configuration display = "true"
+2023-11-22T06:43:45+00:00 pop-os#00 I: Configuration results_style_1_X = "false"
+2023-11-22T06:43:45+00:00 pop-os#00 I: Configuration testdata_dir = "none"
+2023-11-22T06:43:45+00:00 pop-os#00 I: Configuration health_check_interval = "1."
+2023-11-22T06:43:45+00:00 pop-os#00 I: Configuration verbose = "false"
+2023-11-22T06:43:45+00:00 pop-os#00 I: Configuration chooser = "simple"
+2023-11-22T06:43:45+00:00 pop-os#00 I: Configuration output_html_dir = "none"
+2023-11-22T06:43:45+00:00 pop-os#00 I: Configuration processes_kill_period = "5."
+2023-11-22T06:43:45+00:00 pop-os#00 I: Configuration runner = "processes"
+2023-11-22T06:43:45+00:00 pop-os#00 I: Configuration shards = "4"
+2023-11-22T06:43:45+00:00 pop-os#00 I: Configuration processes_grace_period = "5."
+2023-11-22T06:43:45+00:00 pop-os#00 I: Configuration log_encoding = "utf-8"
+2023-11-22T06:43:45+00:00 pop-os#00 I: Configuration output_junit_file = "none"
+2023-11-22T06:43:45+00:00 pop-os#00 I: Configuration ci = "false"
+2023-11-22T06:43:45+00:00 pop-os#00 I: Configuration output_file = "/media/jono/ExtraDrive1/Projects/exercism-solutions/ocaml/pangram/_build/oUnit-$(suite_name)-$(shard_id).log"
+2023-11-22T06:43:45+00:00 pop-os#00 I: Using 4 workers maximum.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Starting worker number pop-os#01.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Worker pop-os#01 started.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Starting worker number pop-os#02.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Worker pop-os#02 started.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Starting worker number pop-os#03.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Worker pop-os#03 started.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Starting worker number pop-os#04.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Worker pop-os#04 started.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:3:missing the letter 'x', pangram tests:2:only lower case, pangram tests:1:perfect lower case, pangram tests:0:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Start test pangram tests:0:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:1:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Start test pangram tests:2:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:3:missing the letter 'x', pangram tests:2:only lower case, pangram tests:1:perfect lower case, pangram tests:0:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Start test pangram tests:3:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:3:missing the letter 'x', pangram tests:2:only lower case, pangram tests:1:perfect lower case, pangram tests:0:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Test pangram tests:0:empty sentence is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:3:missing the letter 'x', pangram tests:2:only lower case, pangram tests:1:perfect lower case, pangram tests:0:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#01 I: End test pangram tests:0:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:3:missing the letter 'x', pangram tests:2:only lower case, pangram tests:1:perfect lower case, pangram tests:0:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:4:missing the letter 'h', pangram tests:3:missing the letter 'x', pangram tests:2:only lower case, pangram tests:1:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Start test pangram tests:4:missing the letter 'h'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:4:missing the letter 'h', pangram tests:3:missing the letter 'x', pangram tests:2:only lower case, pangram tests:1:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Test pangram tests:4:missing the letter 'h' is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:4:missing the letter 'h', pangram tests:3:missing the letter 'x', pangram tests:2:only lower case, pangram tests:1:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:1:perfect lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#01 I: End test pangram tests:4:missing the letter 'h'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:4:missing the letter 'h', pangram tests:3:missing the letter 'x', pangram tests:2:only lower case, pangram tests:1:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:1:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:5:with underscores, pangram tests:3:missing the letter 'x', pangram tests:2:only lower case, pangram tests:1:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Start test pangram tests:5:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:6:with numbers, pangram tests:5:with underscores, pangram tests:3:missing the letter 'x', pangram tests:2:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Test pangram tests:2:only lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:6:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:6:with numbers, pangram tests:5:with underscores, pangram tests:3:missing the letter 'x', pangram tests:2:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#03 I: End test pangram tests:2:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:6:with numbers, pangram tests:5:with underscores, pangram tests:3:missing the letter 'x', pangram tests:2:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:7:missing letters replaced by numbers, pangram tests:6:with numbers, pangram tests:5:with underscores, pangram tests:3:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Start test pangram tests:7:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:7:missing letters replaced by numbers, pangram tests:6:with numbers, pangram tests:5:with underscores, pangram tests:3:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Test pangram tests:5:with underscores is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:7:missing letters replaced by numbers, pangram tests:6:with numbers, pangram tests:5:with underscores, pangram tests:3:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#01 I: End test pangram tests:5:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:7:missing letters replaced by numbers, pangram tests:6:with numbers, pangram tests:5:with underscores, pangram tests:3:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:8:mixed case and punctuation, pangram tests:7:missing letters replaced by numbers, pangram tests:6:with numbers, pangram tests:3:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:6:with numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Start test pangram tests:8:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:8:mixed case and punctuation, pangram tests:7:missing letters replaced by numbers, pangram tests:6:with numbers, pangram tests:3:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:6:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:8:mixed case and punctuation, pangram tests:7:missing letters replaced by numbers, pangram tests:6:with numbers, pangram tests:3:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:9:case insensitive, pangram tests:8:mixed case and punctuation, pangram tests:7:missing letters replaced by numbers, pangram tests:3:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Test pangram tests:7:missing letters replaced by numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:9:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:9:case insensitive, pangram tests:8:mixed case and punctuation, pangram tests:7:missing letters replaced by numbers, pangram tests:3:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#03 I: End test pangram tests:7:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:9:case insensitive, pangram tests:8:mixed case and punctuation, pangram tests:7:missing letters replaced by numbers, pangram tests:3:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Test pangram tests:3:missing the letter 'x' is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:10:a-m and A-M are 26 different characters but not a pangram, pangram tests:9:case insensitive, pangram tests:8:mixed case and punctuation, pangram tests:3:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#04 I: End test pangram tests:3:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Test pangram tests:8:mixed case and punctuation is successful.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Start test pangram tests:10:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:10:a-m and A-M are 26 different characters but not a pangram, pangram tests:9:case insensitive, pangram tests:8:mixed case and punctuation, pangram tests:3:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#01 I: End test pangram tests:8:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:9:case insensitive is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:11:empty sentence, pangram tests:10:a-m and A-M are 26 different characters but not a pangram, pangram tests:9:case insensitive, pangram tests:8:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:9:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Start test pangram tests:11:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:12:perfect lower case, pangram tests:11:empty sentence, pangram tests:10:a-m and A-M are 26 different characters but not a pangram, pangram tests:9:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Test pangram tests:10:a-m and A-M are 26 different characters but not a pangram is successful.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Start test pangram tests:12:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:13:only lower case, pangram tests:12:perfect lower case, pangram tests:11:empty sentence, pangram tests:10:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#03 I: End test pangram tests:10:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:13:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:13:only lower case, pangram tests:12:perfect lower case, pangram tests:11:empty sentence, pangram tests:10:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:14:missing the letter 'x', pangram tests:13:only lower case, pangram tests:12:perfect lower case, pangram tests:11:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Start test pangram tests:14:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:14:missing the letter 'x', pangram tests:13:only lower case, pangram tests:12:perfect lower case, pangram tests:11:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Test pangram tests:12:perfect lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:14:missing the letter 'x', pangram tests:13:only lower case, pangram tests:12:perfect lower case, pangram tests:11:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#01 I: End test pangram tests:12:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:14:missing the letter 'x', pangram tests:13:only lower case, pangram tests:12:perfect lower case, pangram tests:11:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:15:missing the letter 'h', pangram tests:14:missing the letter 'x', pangram tests:13:only lower case, pangram tests:11:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:13:only lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Start test pangram tests:15:missing the letter 'h'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:15:missing the letter 'h', pangram tests:14:missing the letter 'x', pangram tests:13:only lower case, pangram tests:11:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:13:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:15:missing the letter 'h', pangram tests:14:missing the letter 'x', pangram tests:13:only lower case, pangram tests:11:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Test pangram tests:11:empty sentence is successful.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Test pangram tests:14:missing the letter 'x' is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:16:with underscores, pangram tests:15:missing the letter 'h', pangram tests:14:missing the letter 'x', pangram tests:11:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#04 I: End test pangram tests:11:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#03 I: End test pangram tests:14:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:16:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:16:with underscores, pangram tests:15:missing the letter 'h', pangram tests:14:missing the letter 'x', pangram tests:11:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:18:missing letters replaced by numbers, pangram tests:17:with numbers, pangram tests:16:with underscores, pangram tests:15:missing the letter 'h'.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Test pangram tests:15:missing the letter 'h' is successful.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Start test pangram tests:17:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Start test pangram tests:18:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:18:missing letters replaced by numbers, pangram tests:17:with numbers, pangram tests:16:with underscores, pangram tests:15:missing the letter 'h'.
+2023-11-22T06:43:45+00:00 pop-os#01 I: End test pangram tests:15:missing the letter 'h'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:18:missing letters replaced by numbers, pangram tests:17:with numbers, pangram tests:16:with underscores, pangram tests:15:missing the letter 'h'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:19:mixed case and punctuation, pangram tests:18:missing letters replaced by numbers, pangram tests:17:with numbers, pangram tests:16:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:16:with underscores is successful.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Start test pangram tests:19:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:19:mixed case and punctuation, pangram tests:18:missing letters replaced by numbers, pangram tests:17:with numbers, pangram tests:16:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:16:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:19:mixed case and punctuation, pangram tests:18:missing letters replaced by numbers, pangram tests:17:with numbers, pangram tests:16:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:20:case insensitive, pangram tests:19:mixed case and punctuation, pangram tests:18:missing letters replaced by numbers, pangram tests:17:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:20:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:20:case insensitive, pangram tests:19:mixed case and punctuation, pangram tests:18:missing letters replaced by numbers, pangram tests:17:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Test pangram tests:17:with numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:20:case insensitive, pangram tests:19:mixed case and punctuation, pangram tests:18:missing letters replaced by numbers, pangram tests:17:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#03 I: End test pangram tests:17:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:20:case insensitive, pangram tests:19:mixed case and punctuation, pangram tests:18:missing letters replaced by numbers, pangram tests:17:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:21:a-m and A-M are 26 different characters but not a pangram, pangram tests:20:case insensitive, pangram tests:19:mixed case and punctuation, pangram tests:18:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Start test pangram tests:21:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:21:a-m and A-M are 26 different characters but not a pangram, pangram tests:20:case insensitive, pangram tests:19:mixed case and punctuation, pangram tests:18:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Test pangram tests:19:mixed case and punctuation is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:21:a-m and A-M are 26 different characters but not a pangram, pangram tests:20:case insensitive, pangram tests:19:mixed case and punctuation, pangram tests:18:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#01 I: End test pangram tests:19:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:21:a-m and A-M are 26 different characters but not a pangram, pangram tests:20:case insensitive, pangram tests:19:mixed case and punctuation, pangram tests:18:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Test pangram tests:18:missing letters replaced by numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:22:empty sentence, pangram tests:21:a-m and A-M are 26 different characters but not a pangram, pangram tests:20:case insensitive, pangram tests:18:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#04 I: End test pangram tests:18:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:20:case insensitive is successful.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Start test pangram tests:22:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:22:empty sentence, pangram tests:21:a-m and A-M are 26 different characters but not a pangram, pangram tests:20:case insensitive, pangram tests:18:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:20:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Test pangram tests:21:a-m and A-M are 26 different characters but not a pangram is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:23:perfect lower case, pangram tests:22:empty sentence, pangram tests:21:a-m and A-M are 26 different characters but not a pangram, pangram tests:20:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#03 I: End test pangram tests:21:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Start test pangram tests:23:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:24:only lower case, pangram tests:23:perfect lower case, pangram tests:22:empty sentence, pangram tests:21:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Test pangram tests:22:empty sentence is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:24:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:25:missing the letter 'x', pangram tests:24:only lower case, pangram tests:23:perfect lower case, pangram tests:22:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#01 I: End test pangram tests:22:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Start test pangram tests:25:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:25:missing the letter 'x', pangram tests:24:only lower case, pangram tests:23:perfect lower case, pangram tests:22:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:26:missing the letter 'h', pangram tests:25:missing the letter 'x', pangram tests:24:only lower case, pangram tests:23:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Start test pangram tests:26:missing the letter 'h'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:26:missing the letter 'h', pangram tests:25:missing the letter 'x', pangram tests:24:only lower case, pangram tests:23:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:24:only lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:26:missing the letter 'h', pangram tests:25:missing the letter 'x', pangram tests:24:only lower case, pangram tests:23:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:24:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:26:missing the letter 'h', pangram tests:25:missing the letter 'x', pangram tests:24:only lower case, pangram tests:23:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:27:with underscores, pangram tests:26:missing the letter 'h', pangram tests:25:missing the letter 'x', pangram tests:23:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Test pangram tests:23:perfect lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Test pangram tests:25:missing the letter 'x' is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:27:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:27:with underscores, pangram tests:26:missing the letter 'h', pangram tests:25:missing the letter 'x', pangram tests:23:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#04 I: End test pangram tests:23:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#03 I: End test pangram tests:25:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Test pangram tests:26:missing the letter 'h' is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:27:with underscores, pangram tests:26:missing the letter 'h', pangram tests:25:missing the letter 'x', pangram tests:23:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#01 I: End test pangram tests:26:missing the letter 'h'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:29:missing letters replaced by numbers, pangram tests:28:with numbers, pangram tests:27:with underscores, pangram tests:26:missing the letter 'h'.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:27:with underscores is successful.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Start test pangram tests:28:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Start test pangram tests:29:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:30:mixed case and punctuation, pangram tests:29:missing letters replaced by numbers, pangram tests:28:with numbers, pangram tests:27:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:27:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Start test pangram tests:30:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:30:mixed case and punctuation, pangram tests:29:missing letters replaced by numbers, pangram tests:28:with numbers, pangram tests:27:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:31:case insensitive, pangram tests:30:mixed case and punctuation, pangram tests:29:missing letters replaced by numbers, pangram tests:28:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:31:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:31:case insensitive, pangram tests:30:mixed case and punctuation, pangram tests:29:missing letters replaced by numbers, pangram tests:28:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Test pangram tests:28:with numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:31:case insensitive, pangram tests:30:mixed case and punctuation, pangram tests:29:missing letters replaced by numbers, pangram tests:28:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#03 I: End test pangram tests:28:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:31:case insensitive, pangram tests:30:mixed case and punctuation, pangram tests:29:missing letters replaced by numbers, pangram tests:28:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:32:a-m and A-M are 26 different characters but not a pangram, pangram tests:31:case insensitive, pangram tests:30:mixed case and punctuation, pangram tests:29:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Start test pangram tests:32:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:32:a-m and A-M are 26 different characters but not a pangram, pangram tests:31:case insensitive, pangram tests:30:mixed case and punctuation, pangram tests:29:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Test pangram tests:30:mixed case and punctuation is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:32:a-m and A-M are 26 different characters but not a pangram, pangram tests:31:case insensitive, pangram tests:30:mixed case and punctuation, pangram tests:29:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#01 I: End test pangram tests:30:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:32:a-m and A-M are 26 different characters but not a pangram, pangram tests:31:case insensitive, pangram tests:30:mixed case and punctuation, pangram tests:29:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:31:case insensitive is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:33:empty sentence, pangram tests:32:a-m and A-M are 26 different characters but not a pangram, pangram tests:31:case insensitive, pangram tests:29:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Test pangram tests:29:missing letters replaced by numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:31:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Start test pangram tests:33:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:33:empty sentence, pangram tests:32:a-m and A-M are 26 different characters but not a pangram, pangram tests:31:case insensitive, pangram tests:29:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#04 I: End test pangram tests:29:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:34:perfect lower case, pangram tests:33:empty sentence, pangram tests:32:a-m and A-M are 26 different characters but not a pangram, pangram tests:29:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Test pangram tests:32:a-m and A-M are 26 different characters but not a pangram is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:34:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:35:only lower case, pangram tests:34:perfect lower case, pangram tests:33:empty sentence, pangram tests:32:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#03 I: End test pangram tests:32:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Start test pangram tests:35:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:35:only lower case, pangram tests:34:perfect lower case, pangram tests:33:empty sentence, pangram tests:32:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Test pangram tests:33:empty sentence is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:36:missing the letter 'x', pangram tests:35:only lower case, pangram tests:34:perfect lower case, pangram tests:33:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#01 I: End test pangram tests:33:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Start test pangram tests:36:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:36:missing the letter 'x', pangram tests:35:only lower case, pangram tests:34:perfect lower case, pangram tests:33:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:37:missing the letter 'h', pangram tests:36:missing the letter 'x', pangram tests:35:only lower case, pangram tests:34:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:34:perfect lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Start test pangram tests:37:missing the letter 'h'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:37:missing the letter 'h', pangram tests:36:missing the letter 'x', pangram tests:35:only lower case, pangram tests:34:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:34:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:37:missing the letter 'h', pangram tests:36:missing the letter 'x', pangram tests:35:only lower case, pangram tests:34:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:38:with underscores, pangram tests:37:missing the letter 'h', pangram tests:36:missing the letter 'x', pangram tests:35:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:38:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:38:with underscores, pangram tests:37:missing the letter 'h', pangram tests:36:missing the letter 'x', pangram tests:35:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Test pangram tests:36:missing the letter 'x' is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:38:with underscores, pangram tests:37:missing the letter 'h', pangram tests:36:missing the letter 'x', pangram tests:35:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#03 I: End test pangram tests:36:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:38:with underscores, pangram tests:37:missing the letter 'h', pangram tests:36:missing the letter 'x', pangram tests:35:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:39:with numbers, pangram tests:38:with underscores, pangram tests:37:missing the letter 'h', pangram tests:35:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Test pangram tests:35:only lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Test pangram tests:37:missing the letter 'h' is successful.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Start test pangram tests:39:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:39:with numbers, pangram tests:38:with underscores, pangram tests:37:missing the letter 'h', pangram tests:35:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#04 I: End test pangram tests:35:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#01 I: End test pangram tests:37:missing the letter 'h'.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:38:with underscores is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:39:with numbers, pangram tests:38:with underscores, pangram tests:37:missing the letter 'h', pangram tests:35:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:38:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:41:mixed case and punctuation, pangram tests:40:missing letters replaced by numbers, pangram tests:39:with numbers, pangram tests:38:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Test pangram tests:39:with numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Start test pangram tests:40:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Start test pangram tests:41:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:42:case insensitive, pangram tests:41:mixed case and punctuation, pangram tests:40:missing letters replaced by numbers, pangram tests:39:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#03 I: End test pangram tests:39:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:42:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:42:case insensitive, pangram tests:41:mixed case and punctuation, pangram tests:40:missing letters replaced by numbers, pangram tests:39:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:43:a-m and A-M are 26 different characters but not a pangram, pangram tests:42:case insensitive, pangram tests:41:mixed case and punctuation, pangram tests:40:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Start test pangram tests:43:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:43:a-m and A-M are 26 different characters but not a pangram, pangram tests:42:case insensitive, pangram tests:41:mixed case and punctuation, pangram tests:40:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Test pangram tests:40:missing letters replaced by numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:43:a-m and A-M are 26 different characters but not a pangram, pangram tests:42:case insensitive, pangram tests:41:mixed case and punctuation, pangram tests:40:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#01 I: End test pangram tests:40:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:43:a-m and A-M are 26 different characters but not a pangram, pangram tests:42:case insensitive, pangram tests:41:mixed case and punctuation, pangram tests:40:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:44:empty sentence, pangram tests:43:a-m and A-M are 26 different characters but not a pangram, pangram tests:42:case insensitive, pangram tests:41:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:42:case insensitive is successful.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Start test pangram tests:44:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:44:empty sentence, pangram tests:43:a-m and A-M are 26 different characters but not a pangram, pangram tests:42:case insensitive, pangram tests:41:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:42:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:44:empty sentence, pangram tests:43:a-m and A-M are 26 different characters but not a pangram, pangram tests:42:case insensitive, pangram tests:41:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:45:perfect lower case, pangram tests:44:empty sentence, pangram tests:43:a-m and A-M are 26 different characters but not a pangram, pangram tests:41:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Test pangram tests:43:a-m and A-M are 26 different characters but not a pangram is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:45:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:45:perfect lower case, pangram tests:44:empty sentence, pangram tests:43:a-m and A-M are 26 different characters but not a pangram, pangram tests:41:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Test pangram tests:41:mixed case and punctuation is successful.
+2023-11-22T06:43:45+00:00 pop-os#03 I: End test pangram tests:43:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:45:perfect lower case, pangram tests:44:empty sentence, pangram tests:43:a-m and A-M are 26 different characters but not a pangram, pangram tests:41:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#04 I: End test pangram tests:41:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:46:only lower case, pangram tests:45:perfect lower case, pangram tests:44:empty sentence, pangram tests:41:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Test pangram tests:44:empty sentence is successful.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Start test pangram tests:46:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:47:missing the letter 'x', pangram tests:46:only lower case, pangram tests:45:perfect lower case, pangram tests:44:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#01 I: End test pangram tests:44:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:45:perfect lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Start test pangram tests:47:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:47:missing the letter 'x', pangram tests:46:only lower case, pangram tests:45:perfect lower case, pangram tests:44:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:45:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:48:missing the letter 'h', pangram tests:47:missing the letter 'x', pangram tests:46:only lower case, pangram tests:45:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Start test pangram tests:48:missing the letter 'h'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:49:with underscores, pangram tests:48:missing the letter 'h', pangram tests:47:missing the letter 'x', pangram tests:46:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Test pangram tests:46:only lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:49:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:49:with underscores, pangram tests:48:missing the letter 'h', pangram tests:47:missing the letter 'x', pangram tests:46:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#03 I: End test pangram tests:46:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:49:with underscores, pangram tests:48:missing the letter 'h', pangram tests:47:missing the letter 'x', pangram tests:46:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:50:with numbers, pangram tests:49:with underscores, pangram tests:48:missing the letter 'h', pangram tests:47:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Start test pangram tests:50:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:50:with numbers, pangram tests:49:with underscores, pangram tests:48:missing the letter 'h', pangram tests:47:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Test pangram tests:48:missing the letter 'h' is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:50:with numbers, pangram tests:49:with underscores, pangram tests:48:missing the letter 'h', pangram tests:47:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#01 I: End test pangram tests:48:missing the letter 'h'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:50:with numbers, pangram tests:49:with underscores, pangram tests:48:missing the letter 'h', pangram tests:47:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Test pangram tests:47:missing the letter 'x' is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:51:missing letters replaced by numbers, pangram tests:50:with numbers, pangram tests:49:with underscores, pangram tests:47:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#04 I: End test pangram tests:47:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Test pangram tests:50:with numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Start test pangram tests:51:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:51:missing letters replaced by numbers, pangram tests:50:with numbers, pangram tests:49:with underscores, pangram tests:47:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:49:with underscores is successful.
+2023-11-22T06:43:45+00:00 pop-os#03 I: End test pangram tests:50:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:52:mixed case and punctuation, pangram tests:51:missing letters replaced by numbers, pangram tests:50:with numbers, pangram tests:49:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:49:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Start test pangram tests:52:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:53:case insensitive, pangram tests:52:mixed case and punctuation, pangram tests:51:missing letters replaced by numbers, pangram tests:49:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:54:a-m and A-M are 26 different characters but not a pangram, pangram tests:53:case insensitive, pangram tests:52:mixed case and punctuation, pangram tests:51:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Start test pangram tests:53:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:54:a-m and A-M are 26 different characters but not a pangram, pangram tests:53:case insensitive, pangram tests:52:mixed case and punctuation, pangram tests:51:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:54:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:54:a-m and A-M are 26 different characters but not a pangram, pangram tests:53:case insensitive, pangram tests:52:mixed case and punctuation, pangram tests:51:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Test pangram tests:51:missing letters replaced by numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:54:a-m and A-M are 26 different characters but not a pangram, pangram tests:53:case insensitive, pangram tests:52:mixed case and punctuation, pangram tests:51:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#01 I: End test pangram tests:51:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:54:a-m and A-M are 26 different characters but not a pangram, pangram tests:53:case insensitive, pangram tests:52:mixed case and punctuation, pangram tests:51:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:55:empty sentence, pangram tests:54:a-m and A-M are 26 different characters but not a pangram, pangram tests:53:case insensitive, pangram tests:52:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Start test pangram tests:55:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:55:empty sentence, pangram tests:54:a-m and A-M are 26 different characters but not a pangram, pangram tests:53:case insensitive, pangram tests:52:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Test pangram tests:53:case insensitive is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:55:empty sentence, pangram tests:54:a-m and A-M are 26 different characters but not a pangram, pangram tests:53:case insensitive, pangram tests:52:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Test pangram tests:52:mixed case and punctuation is successful.
+2023-11-22T06:43:45+00:00 pop-os#03 I: End test pangram tests:53:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:55:empty sentence, pangram tests:54:a-m and A-M are 26 different characters but not a pangram, pangram tests:53:case insensitive, pangram tests:52:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#04 I: End test pangram tests:52:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:56:perfect lower case, pangram tests:55:empty sentence, pangram tests:54:a-m and A-M are 26 different characters but not a pangram, pangram tests:52:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:54:a-m and A-M are 26 different characters but not a pangram is successful.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Start test pangram tests:56:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:57:only lower case, pangram tests:56:perfect lower case, pangram tests:55:empty sentence, pangram tests:54:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:54:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Test pangram tests:55:empty sentence is successful.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Start test pangram tests:57:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:57:only lower case, pangram tests:56:perfect lower case, pangram tests:55:empty sentence, pangram tests:54:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#01 I: End test pangram tests:55:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:58:missing the letter 'x', pangram tests:57:only lower case, pangram tests:56:perfect lower case, pangram tests:55:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:59:missing the letter 'h', pangram tests:58:missing the letter 'x', pangram tests:57:only lower case, pangram tests:56:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:58:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:59:missing the letter 'h', pangram tests:58:missing the letter 'x', pangram tests:57:only lower case, pangram tests:56:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Start test pangram tests:59:missing the letter 'h'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:59:missing the letter 'h', pangram tests:58:missing the letter 'x', pangram tests:57:only lower case, pangram tests:56:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Test pangram tests:56:perfect lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:59:missing the letter 'h', pangram tests:58:missing the letter 'x', pangram tests:57:only lower case, pangram tests:56:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#03 I: End test pangram tests:56:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:59:missing the letter 'h', pangram tests:58:missing the letter 'x', pangram tests:57:only lower case, pangram tests:56:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:60:with underscores, pangram tests:59:missing the letter 'h', pangram tests:58:missing the letter 'x', pangram tests:57:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:58:missing the letter 'x' is successful.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Start test pangram tests:60:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:60:with underscores, pangram tests:59:missing the letter 'h', pangram tests:58:missing the letter 'x', pangram tests:57:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Test pangram tests:57:only lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:58:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:60:with underscores, pangram tests:59:missing the letter 'h', pangram tests:58:missing the letter 'x', pangram tests:57:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#04 I: End test pangram tests:57:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Test pangram tests:59:missing the letter 'h' is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:61:with numbers, pangram tests:60:with underscores, pangram tests:59:missing the letter 'h', pangram tests:57:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#01 I: End test pangram tests:59:missing the letter 'h'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:62:missing letters replaced by numbers, pangram tests:61:with numbers, pangram tests:60:with underscores, pangram tests:59:missing the letter 'h'.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:61:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Start test pangram tests:62:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:63:mixed case and punctuation, pangram tests:62:missing letters replaced by numbers, pangram tests:61:with numbers, pangram tests:60:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Start test pangram tests:63:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:63:mixed case and punctuation, pangram tests:62:missing letters replaced by numbers, pangram tests:61:with numbers, pangram tests:60:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Test pangram tests:60:with underscores is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:63:mixed case and punctuation, pangram tests:62:missing letters replaced by numbers, pangram tests:61:with numbers, pangram tests:60:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#03 I: End test pangram tests:60:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Test pangram tests:62:missing letters replaced by numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:63:mixed case and punctuation, pangram tests:62:missing letters replaced by numbers, pangram tests:61:with numbers, pangram tests:60:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#04 I: End test pangram tests:62:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:64:case insensitive, pangram tests:63:mixed case and punctuation, pangram tests:62:missing letters replaced by numbers, pangram tests:61:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:61:with numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Test pangram tests:63:mixed case and punctuation is successful.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Start test pangram tests:64:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:65:a-m and A-M are 26 different characters but not a pangram, pangram tests:64:case insensitive, pangram tests:63:mixed case and punctuation, pangram tests:61:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:61:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#01 I: End test pangram tests:63:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Start test pangram tests:65:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:65:a-m and A-M are 26 different characters but not a pangram, pangram tests:64:case insensitive, pangram tests:63:mixed case and punctuation, pangram tests:61:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:67:perfect lower case, pangram tests:66:empty sentence, pangram tests:65:a-m and A-M are 26 different characters but not a pangram, pangram tests:64:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Start test pangram tests:66:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:67:perfect lower case, pangram tests:66:empty sentence, pangram tests:65:a-m and A-M are 26 different characters but not a pangram, pangram tests:64:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:67:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:67:perfect lower case, pangram tests:66:empty sentence, pangram tests:65:a-m and A-M are 26 different characters but not a pangram, pangram tests:64:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Test pangram tests:65:a-m and A-M are 26 different characters but not a pangram is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:67:perfect lower case, pangram tests:66:empty sentence, pangram tests:65:a-m and A-M are 26 different characters but not a pangram, pangram tests:64:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Test pangram tests:64:case insensitive is successful.
+2023-11-22T06:43:45+00:00 pop-os#04 I: End test pangram tests:65:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:67:perfect lower case, pangram tests:66:empty sentence, pangram tests:65:a-m and A-M are 26 different characters but not a pangram, pangram tests:64:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#03 I: End test pangram tests:64:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Test pangram tests:66:empty sentence is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:68:only lower case, pangram tests:67:perfect lower case, pangram tests:66:empty sentence, pangram tests:64:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#01 I: End test pangram tests:66:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:67:perfect lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Start test pangram tests:68:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:69:missing the letter 'x', pangram tests:68:only lower case, pangram tests:67:perfect lower case, pangram tests:66:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:67:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:70:missing the letter 'h', pangram tests:69:missing the letter 'x', pangram tests:68:only lower case, pangram tests:67:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Start test pangram tests:69:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:71:with underscores, pangram tests:70:missing the letter 'h', pangram tests:69:missing the letter 'x', pangram tests:68:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Start test pangram tests:70:missing the letter 'h'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:71:with underscores, pangram tests:70:missing the letter 'h', pangram tests:69:missing the letter 'x', pangram tests:68:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:71:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:71:with underscores, pangram tests:70:missing the letter 'h', pangram tests:69:missing the letter 'x', pangram tests:68:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Test pangram tests:68:only lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:71:with underscores, pangram tests:70:missing the letter 'h', pangram tests:69:missing the letter 'x', pangram tests:68:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#04 I: End test pangram tests:68:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:71:with underscores, pangram tests:70:missing the letter 'h', pangram tests:69:missing the letter 'x', pangram tests:68:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:72:with numbers, pangram tests:71:with underscores, pangram tests:70:missing the letter 'h', pangram tests:69:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Test pangram tests:70:missing the letter 'h' is successful.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Start test pangram tests:72:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:72:with numbers, pangram tests:71:with underscores, pangram tests:70:missing the letter 'h', pangram tests:69:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#01 I: End test pangram tests:70:missing the letter 'h'.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:71:with underscores is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:72:with numbers, pangram tests:71:with underscores, pangram tests:70:missing the letter 'h', pangram tests:69:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Test pangram tests:69:missing the letter 'x' is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:71:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:73:missing letters replaced by numbers, pangram tests:72:with numbers, pangram tests:71:with underscores, pangram tests:69:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#03 I: End test pangram tests:69:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Start test pangram tests:73:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:74:mixed case and punctuation, pangram tests:73:missing letters replaced by numbers, pangram tests:72:with numbers, pangram tests:69:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:75:case insensitive, pangram tests:74:mixed case and punctuation, pangram tests:73:missing letters replaced by numbers, pangram tests:72:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:74:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Start test pangram tests:75:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:75:case insensitive, pangram tests:74:mixed case and punctuation, pangram tests:73:missing letters replaced by numbers, pangram tests:72:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Test pangram tests:72:with numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Test pangram tests:73:missing letters replaced by numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:75:case insensitive, pangram tests:74:mixed case and punctuation, pangram tests:73:missing letters replaced by numbers, pangram tests:72:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#04 I: End test pangram tests:72:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#01 I: End test pangram tests:73:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:74:mixed case and punctuation is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:75:case insensitive, pangram tests:74:mixed case and punctuation, pangram tests:73:missing letters replaced by numbers, pangram tests:72:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:74:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:77:empty sentence, pangram tests:76:a-m and A-M are 26 different characters but not a pangram, pangram tests:75:case insensitive, pangram tests:74:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Test pangram tests:75:case insensitive is successful.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Start test pangram tests:76:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Start test pangram tests:77:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:78:perfect lower case, pangram tests:77:empty sentence, pangram tests:76:a-m and A-M are 26 different characters but not a pangram, pangram tests:75:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#03 I: End test pangram tests:75:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:78:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:78:perfect lower case, pangram tests:77:empty sentence, pangram tests:76:a-m and A-M are 26 different characters but not a pangram, pangram tests:75:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:79:only lower case, pangram tests:78:perfect lower case, pangram tests:77:empty sentence, pangram tests:76:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Start test pangram tests:79:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:79:only lower case, pangram tests:78:perfect lower case, pangram tests:77:empty sentence, pangram tests:76:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Test pangram tests:76:a-m and A-M are 26 different characters but not a pangram is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:79:only lower case, pangram tests:78:perfect lower case, pangram tests:77:empty sentence, pangram tests:76:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#01 I: End test pangram tests:76:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Test pangram tests:77:empty sentence is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:79:only lower case, pangram tests:78:perfect lower case, pangram tests:77:empty sentence, pangram tests:76:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#04 I: End test pangram tests:77:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:78:perfect lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:80:missing the letter 'x', pangram tests:79:only lower case, pangram tests:78:perfect lower case, pangram tests:77:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:78:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Start test pangram tests:80:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:81:missing the letter 'h', pangram tests:80:missing the letter 'x', pangram tests:79:only lower case, pangram tests:78:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Test pangram tests:79:only lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Start test pangram tests:81:missing the letter 'h'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:82:with underscores, pangram tests:81:missing the letter 'h', pangram tests:80:missing the letter 'x', pangram tests:79:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#03 I: End test pangram tests:79:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:82:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:82:with underscores, pangram tests:81:missing the letter 'h', pangram tests:80:missing the letter 'x', pangram tests:79:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:83:with numbers, pangram tests:82:with underscores, pangram tests:81:missing the letter 'h', pangram tests:80:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Start test pangram tests:83:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:83:with numbers, pangram tests:82:with underscores, pangram tests:81:missing the letter 'h', pangram tests:80:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Test pangram tests:80:missing the letter 'x' is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:83:with numbers, pangram tests:82:with underscores, pangram tests:81:missing the letter 'h', pangram tests:80:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#01 I: End test pangram tests:80:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:83:with numbers, pangram tests:82:with underscores, pangram tests:81:missing the letter 'h', pangram tests:80:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:84:missing letters replaced by numbers, pangram tests:83:with numbers, pangram tests:82:with underscores, pangram tests:81:missing the letter 'h'.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Test pangram tests:81:missing the letter 'h' is successful.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Start test pangram tests:84:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:84:missing letters replaced by numbers, pangram tests:83:with numbers, pangram tests:82:with underscores, pangram tests:81:missing the letter 'h'.
+2023-11-22T06:43:45+00:00 pop-os#04 I: End test pangram tests:81:missing the letter 'h'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:84:missing letters replaced by numbers, pangram tests:83:with numbers, pangram tests:82:with underscores, pangram tests:81:missing the letter 'h'.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:82:with underscores is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:85:mixed case and punctuation, pangram tests:84:missing letters replaced by numbers, pangram tests:83:with numbers, pangram tests:82:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:82:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Start test pangram tests:85:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:85:mixed case and punctuation, pangram tests:84:missing letters replaced by numbers, pangram tests:83:with numbers, pangram tests:82:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:86:case insensitive, pangram tests:85:mixed case and punctuation, pangram tests:84:missing letters replaced by numbers, pangram tests:83:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:86:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:86:case insensitive, pangram tests:85:mixed case and punctuation, pangram tests:84:missing letters replaced by numbers, pangram tests:83:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Test pangram tests:84:missing letters replaced by numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:86:case insensitive, pangram tests:85:mixed case and punctuation, pangram tests:84:missing letters replaced by numbers, pangram tests:83:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Test pangram tests:83:with numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#01 I: End test pangram tests:84:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:86:case insensitive, pangram tests:85:mixed case and punctuation, pangram tests:84:missing letters replaced by numbers, pangram tests:83:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#03 I: End test pangram tests:83:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Test pangram tests:85:mixed case and punctuation is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:87:a-m and A-M are 26 different characters but not a pangram, pangram tests:86:case insensitive, pangram tests:85:mixed case and punctuation, pangram tests:83:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#04 I: End test pangram tests:85:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:86:case insensitive is successful.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Start test pangram tests:87:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:88:empty sentence, pangram tests:87:a-m and A-M are 26 different characters but not a pangram, pangram tests:86:case insensitive, pangram tests:85:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:86:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:89:perfect lower case, pangram tests:88:empty sentence, pangram tests:87:a-m and A-M are 26 different characters but not a pangram, pangram tests:86:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Start test pangram tests:88:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:90:only lower case, pangram tests:89:perfect lower case, pangram tests:88:empty sentence, pangram tests:87:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Start test pangram tests:89:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:90:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:90:only lower case, pangram tests:89:perfect lower case, pangram tests:88:empty sentence, pangram tests:87:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Test pangram tests:87:a-m and A-M are 26 different characters but not a pangram is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:90:only lower case, pangram tests:89:perfect lower case, pangram tests:88:empty sentence, pangram tests:87:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#01 I: End test pangram tests:87:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:90:only lower case, pangram tests:89:perfect lower case, pangram tests:88:empty sentence, pangram tests:87:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:91:missing the letter 'x', pangram tests:90:only lower case, pangram tests:89:perfect lower case, pangram tests:88:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Start test pangram tests:91:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:91:missing the letter 'x', pangram tests:90:only lower case, pangram tests:89:perfect lower case, pangram tests:88:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Test pangram tests:89:perfect lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:91:missing the letter 'x', pangram tests:90:only lower case, pangram tests:89:perfect lower case, pangram tests:88:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#04 I: End test pangram tests:89:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:91:missing the letter 'x', pangram tests:90:only lower case, pangram tests:89:perfect lower case, pangram tests:88:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:90:only lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:92:missing the letter 'h', pangram tests:91:missing the letter 'x', pangram tests:90:only lower case, pangram tests:88:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:90:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Start test pangram tests:92:missing the letter 'h'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:92:missing the letter 'h', pangram tests:91:missing the letter 'x', pangram tests:90:only lower case, pangram tests:88:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Test pangram tests:88:empty sentence is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:93:with underscores, pangram tests:92:missing the letter 'h', pangram tests:91:missing the letter 'x', pangram tests:88:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#03 I: End test pangram tests:88:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:93:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:93:with underscores, pangram tests:92:missing the letter 'h', pangram tests:91:missing the letter 'x', pangram tests:88:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Test pangram tests:91:missing the letter 'x' is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:94:with numbers, pangram tests:93:with underscores, pangram tests:92:missing the letter 'h', pangram tests:91:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#01 I: End test pangram tests:91:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Start test pangram tests:94:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:94:with numbers, pangram tests:93:with underscores, pangram tests:92:missing the letter 'h', pangram tests:91:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:95:missing letters replaced by numbers, pangram tests:94:with numbers, pangram tests:93:with underscores, pangram tests:92:missing the letter 'h'.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Start test pangram tests:95:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:95:missing letters replaced by numbers, pangram tests:94:with numbers, pangram tests:93:with underscores, pangram tests:92:missing the letter 'h'.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Test pangram tests:92:missing the letter 'h' is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:95:missing letters replaced by numbers, pangram tests:94:with numbers, pangram tests:93:with underscores, pangram tests:92:missing the letter 'h'.
+2023-11-22T06:43:45+00:00 pop-os#04 I: End test pangram tests:92:missing the letter 'h'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:95:missing letters replaced by numbers, pangram tests:94:with numbers, pangram tests:93:with underscores, pangram tests:92:missing the letter 'h'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:96:mixed case and punctuation, pangram tests:95:missing letters replaced by numbers, pangram tests:94:with numbers, pangram tests:93:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Start test pangram tests:96:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:96:mixed case and punctuation, pangram tests:95:missing letters replaced by numbers, pangram tests:94:with numbers, pangram tests:93:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:93:with underscores is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:96:mixed case and punctuation, pangram tests:95:missing letters replaced by numbers, pangram tests:94:with numbers, pangram tests:93:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:93:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:96:mixed case and punctuation, pangram tests:95:missing letters replaced by numbers, pangram tests:94:with numbers, pangram tests:93:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:97:case insensitive, pangram tests:96:mixed case and punctuation, pangram tests:95:missing letters replaced by numbers, pangram tests:94:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:97:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:97:case insensitive, pangram tests:96:mixed case and punctuation, pangram tests:95:missing letters replaced by numbers, pangram tests:94:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Test pangram tests:95:missing letters replaced by numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:97:case insensitive, pangram tests:96:mixed case and punctuation, pangram tests:95:missing letters replaced by numbers, pangram tests:94:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#01 I: End test pangram tests:95:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:97:case insensitive, pangram tests:96:mixed case and punctuation, pangram tests:95:missing letters replaced by numbers, pangram tests:94:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:98:a-m and A-M are 26 different characters but not a pangram, pangram tests:97:case insensitive, pangram tests:96:mixed case and punctuation, pangram tests:94:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Start test pangram tests:98:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:98:a-m and A-M are 26 different characters but not a pangram, pangram tests:97:case insensitive, pangram tests:96:mixed case and punctuation, pangram tests:94:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Test pangram tests:96:mixed case and punctuation is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:98:a-m and A-M are 26 different characters but not a pangram, pangram tests:97:case insensitive, pangram tests:96:mixed case and punctuation, pangram tests:94:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Test pangram tests:94:with numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#04 I: End test pangram tests:96:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:98:a-m and A-M are 26 different characters but not a pangram, pangram tests:97:case insensitive, pangram tests:96:mixed case and punctuation, pangram tests:94:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#03 I: End test pangram tests:94:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:99:empty sentence, pangram tests:98:a-m and A-M are 26 different characters but not a pangram, pangram tests:97:case insensitive, pangram tests:94:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:97:case insensitive is successful.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Start test pangram tests:99:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:100:perfect lower case, pangram tests:99:empty sentence, pangram tests:98:a-m and A-M are 26 different characters but not a pangram, pangram tests:97:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:97:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Start test pangram tests:100:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:100:perfect lower case, pangram tests:99:empty sentence, pangram tests:98:a-m and A-M are 26 different characters but not a pangram, pangram tests:97:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:101:only lower case, pangram tests:100:perfect lower case, pangram tests:99:empty sentence, pangram tests:98:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Test pangram tests:98:a-m and A-M are 26 different characters but not a pangram is successful.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:101:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:101:only lower case, pangram tests:100:perfect lower case, pangram tests:99:empty sentence, pangram tests:98:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#01 I: End test pangram tests:98:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:101:only lower case, pangram tests:100:perfect lower case, pangram tests:99:empty sentence, pangram tests:98:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:102:missing the letter 'x', pangram tests:101:only lower case, pangram tests:100:perfect lower case, pangram tests:99:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Start test pangram tests:102:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:102:missing the letter 'x', pangram tests:101:only lower case, pangram tests:100:perfect lower case, pangram tests:99:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Test pangram tests:99:empty sentence is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:102:missing the letter 'x', pangram tests:101:only lower case, pangram tests:100:perfect lower case, pangram tests:99:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#04 I: End test pangram tests:99:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:102:missing the letter 'x', pangram tests:101:only lower case, pangram tests:100:perfect lower case, pangram tests:99:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:103:missing the letter 'h', pangram tests:102:missing the letter 'x', pangram tests:101:only lower case, pangram tests:100:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Start test pangram tests:103:missing the letter 'h'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:103:missing the letter 'h', pangram tests:102:missing the letter 'x', pangram tests:101:only lower case, pangram tests:100:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:101:only lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:103:missing the letter 'h', pangram tests:102:missing the letter 'x', pangram tests:101:only lower case, pangram tests:100:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:101:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:103:missing the letter 'h', pangram tests:102:missing the letter 'x', pangram tests:101:only lower case, pangram tests:100:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:104:with underscores, pangram tests:103:missing the letter 'h', pangram tests:102:missing the letter 'x', pangram tests:100:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:104:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:104:with underscores, pangram tests:103:missing the letter 'h', pangram tests:102:missing the letter 'x', pangram tests:100:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Test pangram tests:102:missing the letter 'x' is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:104:with underscores, pangram tests:103:missing the letter 'h', pangram tests:102:missing the letter 'x', pangram tests:100:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#01 I: End test pangram tests:102:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:104:with underscores, pangram tests:103:missing the letter 'h', pangram tests:102:missing the letter 'x', pangram tests:100:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:105:with numbers, pangram tests:104:with underscores, pangram tests:103:missing the letter 'h', pangram tests:100:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Test pangram tests:100:perfect lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Start test pangram tests:105:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:105:with numbers, pangram tests:104:with underscores, pangram tests:103:missing the letter 'h', pangram tests:100:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#03 I: End test pangram tests:100:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:105:with numbers, pangram tests:104:with underscores, pangram tests:103:missing the letter 'h', pangram tests:100:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Test pangram tests:103:missing the letter 'h' is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:106:missing letters replaced by numbers, pangram tests:105:with numbers, pangram tests:104:with underscores, pangram tests:103:missing the letter 'h'.
+2023-11-22T06:43:45+00:00 pop-os#04 I: End test pangram tests:103:missing the letter 'h'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:106:missing letters replaced by numbers, pangram tests:105:with numbers, pangram tests:104:with underscores, pangram tests:103:missing the letter 'h'.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Start test pangram tests:106:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:107:mixed case and punctuation, pangram tests:106:missing letters replaced by numbers, pangram tests:105:with numbers, pangram tests:104:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:104:with underscores is successful.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Start test pangram tests:107:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:107:mixed case and punctuation, pangram tests:106:missing letters replaced by numbers, pangram tests:105:with numbers, pangram tests:104:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:104:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:107:mixed case and punctuation, pangram tests:106:missing letters replaced by numbers, pangram tests:105:with numbers, pangram tests:104:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Test pangram tests:105:with numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:108:case insensitive, pangram tests:107:mixed case and punctuation, pangram tests:106:missing letters replaced by numbers, pangram tests:105:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#01 I: End test pangram tests:105:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:108:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:108:case insensitive, pangram tests:107:mixed case and punctuation, pangram tests:106:missing letters replaced by numbers, pangram tests:105:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:109:a-m and A-M are 26 different characters but not a pangram, pangram tests:108:case insensitive, pangram tests:107:mixed case and punctuation, pangram tests:106:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Start test pangram tests:109:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:109:a-m and A-M are 26 different characters but not a pangram, pangram tests:108:case insensitive, pangram tests:107:mixed case and punctuation, pangram tests:106:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Test pangram tests:107:mixed case and punctuation is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:109:a-m and A-M are 26 different characters but not a pangram, pangram tests:108:case insensitive, pangram tests:107:mixed case and punctuation, pangram tests:106:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#04 I: End test pangram tests:107:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:109:a-m and A-M are 26 different characters but not a pangram, pangram tests:108:case insensitive, pangram tests:107:mixed case and punctuation, pangram tests:106:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:110:empty sentence, pangram tests:109:a-m and A-M are 26 different characters but not a pangram, pangram tests:108:case insensitive, pangram tests:106:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Start test pangram tests:110:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:110:empty sentence, pangram tests:109:a-m and A-M are 26 different characters but not a pangram, pangram tests:108:case insensitive, pangram tests:106:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:108:case insensitive is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:110:empty sentence, pangram tests:109:a-m and A-M are 26 different characters but not a pangram, pangram tests:108:case insensitive, pangram tests:106:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:108:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:110:empty sentence, pangram tests:109:a-m and A-M are 26 different characters but not a pangram, pangram tests:108:case insensitive, pangram tests:106:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Test pangram tests:106:missing letters replaced by numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Test pangram tests:109:a-m and A-M are 26 different characters but not a pangram is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:111:perfect lower case, pangram tests:110:empty sentence, pangram tests:109:a-m and A-M are 26 different characters but not a pangram, pangram tests:106:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#03 I: End test pangram tests:106:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#01 I: End test pangram tests:109:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:111:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:111:perfect lower case, pangram tests:110:empty sentence, pangram tests:109:a-m and A-M are 26 different characters but not a pangram, pangram tests:106:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:113:missing the letter 'x', pangram tests:112:only lower case, pangram tests:111:perfect lower case, pangram tests:110:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Start test pangram tests:112:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:113:missing the letter 'x', pangram tests:112:only lower case, pangram tests:111:perfect lower case, pangram tests:110:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Test pangram tests:110:empty sentence is successful.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Start test pangram tests:113:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:113:missing the letter 'x', pangram tests:112:only lower case, pangram tests:111:perfect lower case, pangram tests:110:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#04 I: End test pangram tests:110:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:113:missing the letter 'x', pangram tests:112:only lower case, pangram tests:111:perfect lower case, pangram tests:110:empty sentence.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:114:missing the letter 'h', pangram tests:113:missing the letter 'x', pangram tests:112:only lower case, pangram tests:111:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Start test pangram tests:114:missing the letter 'h'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:114:missing the letter 'h', pangram tests:113:missing the letter 'x', pangram tests:112:only lower case, pangram tests:111:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:111:perfect lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:114:missing the letter 'h', pangram tests:113:missing the letter 'x', pangram tests:112:only lower case, pangram tests:111:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:111:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:114:missing the letter 'h', pangram tests:113:missing the letter 'x', pangram tests:112:only lower case, pangram tests:111:perfect lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:115:with underscores, pangram tests:114:missing the letter 'h', pangram tests:113:missing the letter 'x', pangram tests:112:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:115:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:115:with underscores, pangram tests:114:missing the letter 'h', pangram tests:113:missing the letter 'x', pangram tests:112:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Test pangram tests:112:only lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:115:with underscores, pangram tests:114:missing the letter 'h', pangram tests:113:missing the letter 'x', pangram tests:112:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#01 I: End test pangram tests:112:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:115:with underscores, pangram tests:114:missing the letter 'h', pangram tests:113:missing the letter 'x', pangram tests:112:only lower case.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:116:with numbers, pangram tests:115:with underscores, pangram tests:114:missing the letter 'h', pangram tests:113:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Start test pangram tests:116:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:116:with numbers, pangram tests:115:with underscores, pangram tests:114:missing the letter 'h', pangram tests:113:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Test pangram tests:114:missing the letter 'h' is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:116:with numbers, pangram tests:115:with underscores, pangram tests:114:missing the letter 'h', pangram tests:113:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#04 I: End test pangram tests:114:missing the letter 'h'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:116:with numbers, pangram tests:115:with underscores, pangram tests:114:missing the letter 'h', pangram tests:113:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:117:missing letters replaced by numbers, pangram tests:116:with numbers, pangram tests:115:with underscores, pangram tests:113:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Start test pangram tests:117:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:117:missing letters replaced by numbers, pangram tests:116:with numbers, pangram tests:115:with underscores, pangram tests:113:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Test pangram tests:113:missing the letter 'x' is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:117:missing letters replaced by numbers, pangram tests:116:with numbers, pangram tests:115:with underscores, pangram tests:113:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#03 I: End test pangram tests:113:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:115:with underscores is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:117:missing letters replaced by numbers, pangram tests:116:with numbers, pangram tests:115:with underscores, pangram tests:113:missing the letter 'x'.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:115:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:118:mixed case and punctuation, pangram tests:117:missing letters replaced by numbers, pangram tests:116:with numbers, pangram tests:115:with underscores.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:119:case insensitive, pangram tests:118:mixed case and punctuation, pangram tests:117:missing letters replaced by numbers, pangram tests:116:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Start test pangram tests:118:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Start test pangram tests:119:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:119:case insensitive, pangram tests:118:mixed case and punctuation, pangram tests:117:missing letters replaced by numbers, pangram tests:116:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Test pangram tests:116:with numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:119:case insensitive, pangram tests:118:mixed case and punctuation, pangram tests:117:missing letters replaced by numbers, pangram tests:116:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#01 I: End test pangram tests:116:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:119:case insensitive, pangram tests:118:mixed case and punctuation, pangram tests:117:missing letters replaced by numbers, pangram tests:116:with numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Still 4 tests running : pangram tests:120:a-m and A-M are 26 different characters but not a pangram, pangram tests:119:case insensitive, pangram tests:118:mixed case and punctuation, pangram tests:117:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:120:a-m and A-M are 26 different characters but not a pangram, pangram tests:119:case insensitive, pangram tests:118:mixed case and punctuation, pangram tests:117:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#04 I: Test pangram tests:117:missing letters replaced by numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Start test pangram tests:120:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Still 4 tests running : pangram tests:120:a-m and A-M are 26 different characters but not a pangram, pangram tests:119:case insensitive, pangram tests:118:mixed case and punctuation, pangram tests:117:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:120:a-m and A-M are 26 different characters but not a pangram, pangram tests:119:case insensitive, pangram tests:118:mixed case and punctuation, pangram tests:117:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#04 I: End test pangram tests:117:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Still 4 tests running : pangram tests:120:a-m and A-M are 26 different characters but not a pangram, pangram tests:119:case insensitive, pangram tests:118:mixed case and punctuation, pangram tests:117:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 4 tests running: pangram tests:120:a-m and A-M are 26 different characters but not a pangram, pangram tests:119:case insensitive, pangram tests:118:mixed case and punctuation, pangram tests:117:missing letters replaced by numbers.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Still 3 tests running : pangram tests:120:a-m and A-M are 26 different characters but not a pangram, pangram tests:119:case insensitive, pangram tests:118:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 3 tests running: pangram tests:120:a-m and A-M are 26 different characters but not a pangram, pangram tests:119:case insensitive, pangram tests:118:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#02 I: Test pangram tests:119:case insensitive is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Still 3 tests running : pangram tests:120:a-m and A-M are 26 different characters but not a pangram, pangram tests:119:case insensitive, pangram tests:118:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 3 tests running: pangram tests:120:a-m and A-M are 26 different characters but not a pangram, pangram tests:119:case insensitive, pangram tests:118:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#02 I: End test pangram tests:119:case insensitive.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Still 3 tests running : pangram tests:120:a-m and A-M are 26 different characters but not a pangram, pangram tests:119:case insensitive, pangram tests:118:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 3 tests running: pangram tests:120:a-m and A-M are 26 different characters but not a pangram, pangram tests:119:case insensitive, pangram tests:118:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Still 2 tests running : pangram tests:120:a-m and A-M are 26 different characters but not a pangram, pangram tests:118:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 2 tests running: pangram tests:120:a-m and A-M are 26 different characters but not a pangram, pangram tests:118:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#01 I: Test pangram tests:120:a-m and A-M are 26 different characters but not a pangram is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Still 2 tests running : pangram tests:120:a-m and A-M are 26 different characters but not a pangram, pangram tests:118:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 2 tests running: pangram tests:120:a-m and A-M are 26 different characters but not a pangram, pangram tests:118:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#01 I: End test pangram tests:120:a-m and A-M are 26 different characters but not a pangram.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Still 2 tests running : pangram tests:120:a-m and A-M are 26 different characters but not a pangram, pangram tests:118:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 2 tests running: pangram tests:120:a-m and A-M are 26 different characters but not a pangram, pangram tests:118:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Still 1 tests running : pangram tests:118:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 1 tests running: pangram tests:118:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#03 I: Test pangram tests:118:mixed case and punctuation is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Still 1 tests running : pangram tests:118:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 1 tests running: pangram tests:118:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#03 I: End test pangram tests:118:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Still 1 tests running : pangram tests:118:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 1 tests running: pangram tests:118:mixed case and punctuation.
+2023-11-22T06:43:45+00:00 pop-os#00 I: 0 tests running: .
+2023-11-22T06:43:45+00:00 pop-os#00 I: Worker pop-os#04 has ended.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Worker pop-os#02 has ended.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Worker pop-os#01 has ended.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Worker pop-os#03 has ended.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Used 4 worker during test execution.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Run 35 tests with shard pop-os#01.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Run 26 tests with shard pop-os#04.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Run 28 tests with shard pop-os#03.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Run 32 tests with shard pop-os#02.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Check health of shard pop-os#04, 10 times.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Check health of shard pop-os#01, 4 times.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Check health of shard pop-os#03, 1 times.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Check health of shard pop-os#02, 7 times.
+2023-11-22T06:43:45+00:00 pop-os#00 I: ==============
+2023-11-22T06:43:45+00:00 pop-os#00 I: Summary:
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:118:mixed case and punctuation is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:120:a-m and A-M are 26 different characters but not a pangram is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:119:case insensitive is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:117:missing letters replaced by numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:116:with numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:115:with underscores is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:113:missing the letter 'x' is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:114:missing the letter 'h' is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:112:only lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:111:perfect lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:110:empty sentence is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:109:a-m and A-M are 26 different characters but not a pangram is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:106:missing letters replaced by numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:108:case insensitive is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:107:mixed case and punctuation is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:105:with numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:104:with underscores is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:103:missing the letter 'h' is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:100:perfect lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:102:missing the letter 'x' is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:101:only lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:99:empty sentence is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:98:a-m and A-M are 26 different characters but not a pangram is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:97:case insensitive is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:94:with numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:96:mixed case and punctuation is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:95:missing letters replaced by numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:93:with underscores is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:92:missing the letter 'h' is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:91:missing the letter 'x' is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:88:empty sentence is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:90:only lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:89:perfect lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:87:a-m and A-M are 26 different characters but not a pangram is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:86:case insensitive is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:85:mixed case and punctuation is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:83:with numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:84:missing letters replaced by numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:82:with underscores is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:81:missing the letter 'h' is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:80:missing the letter 'x' is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:79:only lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:78:perfect lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:77:empty sentence is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:76:a-m and A-M are 26 different characters but not a pangram is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:75:case insensitive is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:74:mixed case and punctuation is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:73:missing letters replaced by numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:72:with numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:69:missing the letter 'x' is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:71:with underscores is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:70:missing the letter 'h' is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:68:only lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:67:perfect lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:66:empty sentence is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:64:case insensitive is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:65:a-m and A-M are 26 different characters but not a pangram is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:63:mixed case and punctuation is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:61:with numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:62:missing letters replaced by numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:60:with underscores is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:59:missing the letter 'h' is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:57:only lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:58:missing the letter 'x' is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:56:perfect lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:55:empty sentence is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:54:a-m and A-M are 26 different characters but not a pangram is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:52:mixed case and punctuation is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:53:case insensitive is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:51:missing letters replaced by numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:49:with underscores is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:50:with numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:47:missing the letter 'x' is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:48:missing the letter 'h' is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:46:only lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:45:perfect lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:44:empty sentence is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:41:mixed case and punctuation is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:43:a-m and A-M are 26 different characters but not a pangram is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:42:case insensitive is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:40:missing letters replaced by numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:39:with numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:38:with underscores is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:37:missing the letter 'h' is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:35:only lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:36:missing the letter 'x' is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:34:perfect lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:33:empty sentence is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:32:a-m and A-M are 26 different characters but not a pangram is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:29:missing letters replaced by numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:31:case insensitive is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:30:mixed case and punctuation is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:28:with numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:27:with underscores is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:26:missing the letter 'h' is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:25:missing the letter 'x' is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:23:perfect lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:24:only lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:22:empty sentence is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:21:a-m and A-M are 26 different characters but not a pangram is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:20:case insensitive is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:18:missing letters replaced by numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:19:mixed case and punctuation is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:17:with numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:16:with underscores is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:15:missing the letter 'h' is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:14:missing the letter 'x' is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:11:empty sentence is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:13:only lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:12:perfect lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:10:a-m and A-M are 26 different characters but not a pangram is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:9:case insensitive is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:8:mixed case and punctuation is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:3:missing the letter 'x' is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:7:missing letters replaced by numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:6:with numbers is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:5:with underscores is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:2:only lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:1:perfect lower case is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:4:missing the letter 'h' is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Test pangram tests:0:empty sentence is successful.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Ran: 121 tests in: 0.14 seconds.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Cases: 121.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Tried: 121.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Errors: 0.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Failures: 0.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Skip: 0.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Todo: 0.
+2023-11-22T06:43:45+00:00 pop-os#00 I: Timeout: 0.

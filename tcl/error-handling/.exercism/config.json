@@ -1,0 +1,20 @@
+{
+  "authors": [
+    "glennj"
+  ],
+  "contributors": [
+    "sshine"
+  ],
+  "files": {
+    "solution": [
+      "error-handling.tcl"
+    ],
+    "test": [
+      "error-handling.test"
+    ],
+    "example": [
+      ".meta/example.tcl"
+    ]
+  },
+  "blurb": "Implement various kinds of error handling and resource management."
+}

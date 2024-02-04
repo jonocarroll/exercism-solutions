@@ -1,0 +1,1 @@
+/usr/bin/f95 -std=f2008 -W -Wall -Wextra -pedantic -fbacktrace -g CMakeFiles/hamming.dir/hamming.f90.o CMakeFiles/hamming.dir/hamming_test.f90.o -o hamming  testlib/libTesterMain.a 

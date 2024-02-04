@@ -1,0 +1,12 @@
+2023-11-22T06:32:50+00:00 pop-os#03 I: Start test triangle tests:2:no sides are equal.
+2023-11-22T06:32:50+00:00 pop-os#03 I: Test triangle tests:2:no sides are equal is successful.
+2023-11-22T06:32:50+00:00 pop-os#03 I: End test triangle tests:2:no sides are equal.
+2023-11-22T06:32:50+00:00 pop-os#03 I: Start test triangle tests:6:first and last sides are equal.
+2023-11-22T06:32:50+00:00 pop-os#03 I: Test triangle tests:6:first and last sides are equal is successful.
+2023-11-22T06:32:50+00:00 pop-os#03 I: End test triangle tests:6:first and last sides are equal.
+2023-11-22T06:32:50+00:00 pop-os#03 I: Start test triangle tests:10:second triangle inequality violation.
+2023-11-22T06:32:50+00:00 pop-os#03 I: Test triangle tests:10:second triangle inequality violation is successful.
+2023-11-22T06:32:50+00:00 pop-os#03 I: End test triangle tests:10:second triangle inequality violation.
+2023-11-22T06:32:50+00:00 pop-os#03 I: Start test triangle tests:14:first and second sides are equal.
+2023-11-22T06:32:50+00:00 pop-os#03 I: Test triangle tests:14:first and second sides are equal is successful.
+2023-11-22T06:32:50+00:00 pop-os#03 I: End test triangle tests:14:first and second sides are equal.

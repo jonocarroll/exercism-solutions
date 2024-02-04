@@ -1,0 +1,11 @@
+[0m[[0m[31merror[0m] [0m[0m/media/jono/ExtraDrive1/Projects/exercism-solutions/scala/two-fer/src/test/scala/TwoferTest.scala:14:19: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : String("Alice")[0m
+[0m[[0m[31merror[0m] [0m[0m required: Option[String][0m
+[0m[[0m[31merror[0m] [0m[0m    Twofer.twofer("Alice") should be ("One for Alice, one for me.")[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/media/jono/ExtraDrive1/Projects/exercism-solutions/scala/two-fer/src/test/scala/TwoferTest.scala:19:19: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : String("Bob")[0m
+[0m[[0m[31merror[0m] [0m[0m required: Option[String][0m
+[0m[[0m[31merror[0m] [0m[0m    Twofer.twofer("Bob") should be ("One for Bob, one for me.")[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

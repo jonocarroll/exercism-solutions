@@ -1,0 +1,54 @@
+:require clojure.string :as str
+:require clojure.string as str
+(clojure.string/split "[MSG]: foobar" #":")
+("[MSG]: foobar" #":")
+s="[MSG]: foobar"
+(setq s "[MSG]: foobar")
+(defvar s "[MSG]: foobar")
+(set s "[MSG]: foobar")
+(let s "[MSG]: foobar")
+(def s "[MSG]: foobar")
+s
+(clojure.string/split s #":")
+(-> s (clojure.string/split #":")
+)
+(-> s (clojure.string/split #":") (first))
+(-> s (clojure.string/split #":") (pop))
+(-> s (clojure.string/split #":") (second))
+(-> s (clojure.string/split #":") (second) (clojure.string/trim)
+)
+load log_levels.clj
+(load log_levels.clj)
+(load "log_levels.clj")
+:require log-levels
+:require log-levels.clj
+(use 'log_levels :reload-all)
+(load-file "log_levels.clj")
+dir
+(dir)
+(dir ".")
+(load-file "log_levels.clj")
+(load-file "~/Projects/exercism-solutions/clojure/log-levels/log_levels.clj")
+(load-file "src/log_levels.clj")
+message "thisis : ms"
+use 'log_levels
+(use 'log_levels)
+message "thisis : ms"
+message "[WARNING]: Decreased performance"
+(message "[WARNING]: Decreased performance")
+message "[WARNING]: Decreased performance"
+log-level "[WARNING]: Decreased performance"
+getparts "[WARNING]: Decreased performance" 
+(use 'log_levels)
+(use 'log-levels)
+(message "[WARNING]: Decreased performance")
+(log-level "[WARNING]: Decreased performance")
+(reformat "[WARNING]: Decreased performance")
+(use 'log-levels)
+(reformat "[WARNING]: Decreased performance")
+(use 'log-levels :auto-reload)
+(use 'log-levels :reload-all)
+(reformat "[WARNING]: Decreased performance")
+(use 'log-levels :reload-all)
+(reformat "[WARNING]: Decreased performance")
+exit

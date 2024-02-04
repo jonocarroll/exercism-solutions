@@ -1,0 +1,14 @@
+/home/jono/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/include/ghcversion.h:
+  hash: d590b76d2d5f98f01894882dc106d920a101f52edb6a09b9a7f8dc701b075565
+? /media/jono/ExtraDrive1/Projects/exercism-solutions/haskell/change/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/autogen/Paths_change.hs
+: hash: 0685f21b7bc7483a1aafed460265c0dbb910ea34134dab0363a4b67f9f195d25
+? /media/jono/ExtraDrive1/Projects/exercism-solutions/haskell/change/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/autogen/cabal_macros.h
+: hash: b9621d17b106429dee025525d56a406fa60836779ef8b286f4b3b4539aabbba9
+/media/jono/ExtraDrive1/Projects/exercism-solutions/haskell/change/change.cabal:
+  hash: e13758e3d8eedfa7ac48c472e43810a270bc4734c95f16718b247a283680bce5
+/media/jono/ExtraDrive1/Projects/exercism-solutions/haskell/change/package.yaml:
+  hash: ef00dfaa4434a6b16db2476bde722672dd8898c1b40bb9bd52563d7f7072b79b
+/media/jono/ExtraDrive1/Projects/exercism-solutions/haskell/change/src/Change.hs:
+  hash: 3c570aeede03e946a8ca066cdd8c1c13f65e2feca49af9e00aaf7a8cd39ef435
+/usr/include/stdc-predef.h:
+  hash: cb08cd5d4cc059a90833ac48a284d25016e8d56ded8ad4cd98d8ac59cc5053f3

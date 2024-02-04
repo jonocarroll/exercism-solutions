@@ -1,0 +1,1 @@
+/usr/bin/f95 -std=f2008 -W -Wall -Wextra -pedantic -fbacktrace -g CMakeFiles/collatz-conjecture.dir/collatz_conjecture.f90.o CMakeFiles/collatz-conjecture.dir/collatz_conjecture_test.f90.o -o collatz-conjecture  testlib/libTesterMain.a 

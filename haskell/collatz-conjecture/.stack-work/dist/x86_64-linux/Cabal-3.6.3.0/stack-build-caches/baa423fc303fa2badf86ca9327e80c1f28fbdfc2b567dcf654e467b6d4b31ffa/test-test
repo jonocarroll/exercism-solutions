@@ -1,0 +1,14 @@
+/home/jono/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/include/ghcversion.h:
+  hash: d590b76d2d5f98f01894882dc106d920a101f52edb6a09b9a7f8dc701b075565
+? /media/jono/ExtraDrive1/Projects/exercism-solutions/haskell/collatz-conjecture/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/test/autogen/Paths_collatz_conjecture.hs
+: hash: 42fdf5aca5c304ad71ddf557720e06c6e4cc044165f4fc52abc3873ee6b14f5c
+? /media/jono/ExtraDrive1/Projects/exercism-solutions/haskell/collatz-conjecture/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/test/autogen/cabal_macros.h
+: hash: 673f8815224294d9d5e14084f2ecbc7a48fd6a2564dd1ea235e0c47fe5b0fbaf
+/media/jono/ExtraDrive1/Projects/exercism-solutions/haskell/collatz-conjecture/collatz-conjecture.cabal:
+  hash: 2ec76c888b889e63c596c43efebd9e1fc6cf5ed40f70cccd597b8820f8ff0089
+/media/jono/ExtraDrive1/Projects/exercism-solutions/haskell/collatz-conjecture/package.yaml:
+  hash: e04e546810251e29e1b3a5bae523e047724b2e3b36899b4d241b93721a71f1a4
+/media/jono/ExtraDrive1/Projects/exercism-solutions/haskell/collatz-conjecture/test/Tests.hs:
+  hash: e346b85bf77320431cbf70c8fa49bf945db2859fd5a500636b049d4c44bc9e4c
+/usr/include/stdc-predef.h:
+  hash: cb08cd5d4cc059a90833ac48a284d25016e8d56ded8ad4cd98d8ac59cc5053f3
