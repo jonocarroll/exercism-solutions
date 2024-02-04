@@ -1,0 +1,70 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# exercism-solutions
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+These are my completed solutions to [Exercism](https://exercism.org/) problems. 
+
+I completed the [#12in23](https://exercism.org/challenges/12in23) challenge by
+solving 5 non-trivial exercises in each of 12 languages, plus several more.
+
+I am also completing the [#48in24](https://exercism.org/challenges/48in24) challenge.
+
+## Number of Exercises per Language
+
+```{r, echo = FALSE}
+get_root_dirs <- function(path) {
+  dirs <- list.dirs(path, recursive = FALSE)
+  dirs <- sub("^./", "", dirs)
+  dirs <- dirs[!startsWith(dirs, ".")]
+  dirs  
+}
+
+get_image <- function(lang) {
+  paste0("./.logos/", lang, ".png")
+}
+
+get_n_exercises <- function(lang) {
+  length(get_root_dirs(lang))
+}
+
+make_link <- function(lang) {
+  glue::glue('<a href="./{lang}/">{lang}</a>')
+}
+
+dirs <- get_root_dirs(".")
+
+dplyr::tibble(
+  logo = dirs,
+  language = sapply(dirs, make_link),
+  exercises = sapply(dirs, get_n_exercises),
+  bar = exercises
+) |>
+  dplyr::mutate(language = purrr::map(language, gt::html)) |>
+  dplyr::arrange(desc(exercises)) |>
+  gt::gt(caption = glue::glue("Last compiled: {Sys.Date()}")) |>
+  gt::text_transform(
+    locations = gt::cells_body(columns = logo),
+    fn = function(x) {
+      gt::local_image(
+        filename = get_image(x),
+        height = 50
+      )
+    }
+  ) |>  
+  gtExtras::gt_plt_bar(column = bar, keep_column = FALSE) |>
+  gt::cols_label(.list = list(logo = "", language = "", exercises = "", bar = ""))
+```
