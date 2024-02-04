@@ -1,5 +1,9 @@
 ---
-output: github_document
+output: 
+  github_document:
+    df_print: "kable"
+editor_options: 
+  chunk_output_type: console
 ---
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
@@ -47,24 +51,36 @@ make_link <- function(lang) {
 
 dirs <- get_root_dirs(".")
 
+md_logo <- function(lang) {
+  glue::glue("![]({get_image(lang)})")
+}
+
 dplyr::tibble(
-  logo = dirs,
+  logo = sapply(dirs, md_logo),
   language = sapply(dirs, make_link),
-  exercises = sapply(dirs, get_n_exercises),
-  bar = exercises
-) |>
-  dplyr::mutate(language = purrr::map(language, gt::html)) |>
-  dplyr::arrange(desc(exercises)) |>
-  gt::gt(caption = glue::glue("Last compiled: {Sys.Date()}")) |>
-  gt::text_transform(
-    locations = gt::cells_body(columns = logo),
-    fn = function(x) {
-      gt::local_image(
-        filename = get_image(x),
-        height = 50
-      )
-    }
-  ) |>  
-  gtExtras::gt_plt_bar(column = bar, keep_column = FALSE) |>
-  gt::cols_label(.list = list(logo = "", language = "", exercises = "", bar = ""))
+  exercises = sapply(dirs, get_n_exercises)
+) |> 
+  dplyr::arrange(desc(exercises)) |> 
+  as.data.frame()
+
+# dplyr::tibble(
+#   logo = dirs,
+#   language = sapply(dirs, make_link),
+#   exercises = sapply(dirs, get_n_exercises),
+#   bar = exercises
+# ) |>
+#   dplyr::mutate(language = purrr::map(language, gt::html)) |>
+#   dplyr::arrange(desc(exercises)) |>
+#   gt::gt(caption = glue::glue("Last compiled: {Sys.Date()}")) |>
+#   gt::text_transform(
+#     locations = gt::cells_body(columns = logo),
+#     fn = function(x) {
+#       gt::local_image(
+#         filename = get_image(x),
+#         height = 50
+#       )
+#     }
+#   ) |>  
+#   gtExtras::gt_plt_bar(column = bar, keep_column = FALSE) |>
+#   gt::cols_label(.list = list(logo = "", language = "", exercises = "", bar = ""))
 ```
