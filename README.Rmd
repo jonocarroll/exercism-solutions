@@ -27,7 +27,7 @@ solving 5 non-trivial exercises in each of 12 languages, plus several more.
 
 I am also completing the [#48in24](https://exercism.org/challenges/48in24) challenge.
 
-## Number of Exercises per Language
+## Number of Exercises Completed per Language
 
 ```{r, echo = FALSE}
 get_root_dirs <- function(path) {

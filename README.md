@@ -16,7 +16,7 @@ plus several more.
 I am also completing the
 [\#48in24](https://exercism.org/challenges/48in24) challenge.
 
-## Number of Exercises per Language
+## Number of Exercises Completed per Language
 
 <div class="kable-table">
 
@@ -24,12 +24,12 @@ I am also completing the
 |:----------------------------------|:-------------------------------------------------|----------:|
 | ![](./.logos/haskell.png)         | <a href="./haskell/">haskell</a>                 |        11 |
 | ![](./.logos/clojure.png)         | <a href="./clojure/">clojure</a>                 |         9 |
+| ![](./.logos/julia.png)           | <a href="./julia/">julia</a>                     |         9 |
 | ![](./.logos/go.png)              | <a href="./go/">go</a>                           |         8 |
-| ![](./.logos/julia.png)           | <a href="./julia/">julia</a>                     |         8 |
+| ![](./.logos/r.png)               | <a href="./r/">r</a>                             |         8 |
 | ![](./.logos/common-lisp.png)     | <a href="./common-lisp/">common-lisp</a>         |         7 |
 | ![](./.logos/javascript.png)      | <a href="./javascript/">javascript</a>           |         7 |
 | ![](./.logos/python.png)          | <a href="./python/">python</a>                   |         7 |
-| ![](./.logos/r.png)               | <a href="./r/">r</a>                             |         7 |
 | ![](./.logos/ruby.png)            | <a href="./ruby/">ruby</a>                       |         7 |
 | ![](./.logos/bash.png)            | <a href="./bash/">bash</a>                       |         6 |
 | ![](./.logos/fortran.png)         | <a href="./fortran/">fortran</a>                 |         6 |
@@ -41,7 +41,9 @@ I am also completing the
 | ![](./.logos/vlang.png)           | <a href="./vlang/">vlang</a>                     |         6 |
 | ![](./.logos/x86-64-assembly.png) | <a href="./x86-64-assembly/">x86-64-assembly</a> |         6 |
 | ![](./.logos/cpp.png)             | <a href="./cpp/">cpp</a>                         |         2 |
+| ![](./.logos/elixir.png)          | <a href="./elixir/">elixir</a>                   |         2 |
 | ![](./.logos/mips.png)            | <a href="./mips/">mips</a>                       |         2 |
 | ![](./.logos/nim.png)             | <a href="./nim/">nim</a>                         |         2 |
+| ![](./.logos/pharo-smalltalk.png) | <a href="./pharo-smalltalk/">pharo-smalltalk</a> |         1 |
 
 </div>
