@@ -27,7 +27,7 @@ solving 5 non-trivial exercises in each of 12 languages, plus several more.
 
 I am also completing the [#48in24](https://exercism.org/challenges/48in24) challenge.
 
-## Number of Exercises Completed per Language
+## Number of Exercises Completed per Language 
 
 ```{r, echo = FALSE}
 get_root_dirs <- function(path) {
@@ -42,7 +42,10 @@ get_image <- function(lang) {
 }
 
 get_n_exercises <- function(lang) {
-  length(get_root_dirs(lang))
+  dirs <- get_root_dirs(lang)
+  # pharo-smalltalk has the image in that directory
+  dirs <- dirs[!grepl("pharo-smalltalk/pharo-", dirs)]
+  length(dirs)
 }
 
 make_link <- function(lang) {

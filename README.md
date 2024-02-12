@@ -44,6 +44,6 @@ I am also completing the
 | ![](./.logos/elixir.png)          | <a href="./elixir/">elixir</a>                   |         2 |
 | ![](./.logos/mips.png)            | <a href="./mips/">mips</a>                       |         2 |
 | ![](./.logos/nim.png)             | <a href="./nim/">nim</a>                         |         2 |
-| ![](./.logos/pharo-smalltalk.png) | <a href="./pharo-smalltalk/">pharo-smalltalk</a> |         1 |
+| ![](./.logos/pharo-smalltalk.png) | <a href="./pharo-smalltalk/">pharo-smalltalk</a> |         2 |
 
 </div>

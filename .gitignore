@@ -4,3 +4,6 @@
 .Ruserdata
 r.Rproj
 exercism-solutions.Rproj
+pharo-smalltalk/Pharo*
+pharo-smalltalk/pharo
+pharo-smalltalk/pharo-*
