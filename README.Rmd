@@ -55,7 +55,8 @@ make_link <- function(lang) {
 dirs <- get_root_dirs(".")
 
 md_logo <- function(lang) {
-  glue::glue("![]({get_image(lang)})")
+  # glue::glue("![]({get_image(lang)})")
+  glue::glue("<img height='40px' src='{get_image(lang)}'></image>")
 }
 
 dplyr::tibble(
