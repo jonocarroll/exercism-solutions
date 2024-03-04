@@ -86,9 +86,9 @@ solving 5 non-trivial exercises in each of 12 languages, plus several more.
 
 I am also completing the [#48in24](https://exercism.org/challenges/48in24) challenge.
 
-Total number of languages explored:  <span style="font-size:150%"><b>`r nrow(langs)`</b></p>.
+Total number of languages explored:  <span style="font-size:150%"><b>`r nrow(langs)`</b></p>
 
-Total number of exercises completed:  <span style="font-size:150%"><b>`r sum(langs$exercises)`</b></p>.
+Total number of exercises completed:  <span style="font-size:150%"><b>`r sum(langs$exercises)`</b></p>
 
 ## Number of Exercises Completed per Language 
 

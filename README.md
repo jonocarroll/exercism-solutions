@@ -19,14 +19,9 @@ I am also completing the
 Total number of languages explored:
 <span style="font-size:150%"><b>30</b>
 </p>
-
-.
-
 Total number of exercises completed:
 <span style="font-size:150%"><b>155</b>
 </p>
-
-.
 
 ## Number of Exercises Completed per Language
 
