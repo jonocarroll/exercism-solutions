@@ -16,17 +16,29 @@ plus several more.
 I am also completing the
 [\#48in24](https://exercism.org/challenges/48in24) challenge.
 
+Total number of languages explored:
+<span style="font-size:150%"><b>30</b>
+</p>
+
+.
+
+Total number of exercises completed:
+<span style="font-size:150%"><b>155</b>
+</p>
+
+.
+
 ## Number of Exercises Completed per Language
 
 <div class="kable-table">
 
 | logo                                                           | language                                         | exercises |
 |:---------------------------------------------------------------|:-------------------------------------------------|----------:|
-| <img height='40px' src='./.logos/haskell.png'></image>         | <a href="./haskell/">haskell</a>                 |        11 |
+| <img height='40px' src='./.logos/haskell.png'></image>         | <a href="./haskell/">haskell</a>                 |        12 |
+| <img height='40px' src='./.logos/r.png'></image>               | <a href="./r/">r</a>                             |        10 |
 | <img height='40px' src='./.logos/clojure.png'></image>         | <a href="./clojure/">clojure</a>                 |         9 |
 | <img height='40px' src='./.logos/julia.png'></image>           | <a href="./julia/">julia</a>                     |         9 |
 | <img height='40px' src='./.logos/go.png'></image>              | <a href="./go/">go</a>                           |         8 |
-| <img height='40px' src='./.logos/r.png'></image>               | <a href="./r/">r</a>                             |         8 |
 | <img height='40px' src='./.logos/common-lisp.png'></image>     | <a href="./common-lisp/">common-lisp</a>         |         7 |
 | <img height='40px' src='./.logos/javascript.png'></image>      | <a href="./javascript/">javascript</a>           |         7 |
 | <img height='40px' src='./.logos/python.png'></image>          | <a href="./python/">python</a>                   |         7 |
@@ -49,6 +61,7 @@ I am also completing the
 | <img height='40px' src='./.logos/mips.png'></image>            | <a href="./mips/">mips</a>                       |         2 |
 | <img height='40px' src='./.logos/nim.png'></image>             | <a href="./nim/">nim</a>                         |         2 |
 | <img height='40px' src='./.logos/pharo-smalltalk.png'></image> | <a href="./pharo-smalltalk/">pharo-smalltalk</a> |         2 |
+| <img height='40px' src='./.logos/powershell.png'></image>      | <a href="./powershell/">powershell</a>           |         2 |
 | <img height='40px' src='./.logos/sml.png'></image>             | <a href="./sml/">sml</a>                         |         2 |
 | <img height='40px' src='./.logos/swift.png'></image>           | <a href="./swift/">swift</a>                     |         2 |
 

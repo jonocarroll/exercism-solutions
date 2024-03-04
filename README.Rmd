@@ -20,15 +20,6 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-These are my completed solutions to [Exercism](https://exercism.org/) problems. 
-
-I completed the [#12in23](https://exercism.org/challenges/12in23) challenge by
-solving 5 non-trivial exercises in each of 12 languages, plus several more.
-
-I am also completing the [#48in24](https://exercism.org/challenges/48in24) challenge.
-
-## Number of Exercises Completed per Language 
-
 ```{r, echo = FALSE}
 get_root_dirs <- function(path) {
   dirs <- list.dirs(path, recursive = FALSE)
@@ -58,8 +49,7 @@ md_logo <- function(lang) {
   # glue::glue("![]({get_image(lang)})")
   glue::glue("<img height='40px' src='{get_image(lang)}'></image>")
 }
-
-dplyr::tibble(
+langs <- dplyr::tibble(
   logo = sapply(dirs, md_logo),
   language = sapply(dirs, make_link),
   exercises = sapply(dirs, get_n_exercises)
@@ -87,4 +77,21 @@ dplyr::tibble(
 #   ) |>  
 #   gtExtras::gt_plt_bar(column = bar, keep_column = FALSE) |>
 #   gt::cols_label(.list = list(logo = "", language = "", exercises = "", bar = ""))
+```
+
+These are my completed solutions to [Exercism](https://exercism.org/) problems. 
+
+I completed the [#12in23](https://exercism.org/challenges/12in23) challenge by
+solving 5 non-trivial exercises in each of 12 languages, plus several more.
+
+I am also completing the [#48in24](https://exercism.org/challenges/48in24) challenge.
+
+Total number of languages explored:  <span style="font-size:150%"><b>`r nrow(langs)`</b></p>.
+
+Total number of exercises completed:  <span style="font-size:150%"><b>`r sum(langs$exercises)`</b></p>.
+
+## Number of Exercises Completed per Language 
+
+```{r, echo = FALSE}
+langs
 ```

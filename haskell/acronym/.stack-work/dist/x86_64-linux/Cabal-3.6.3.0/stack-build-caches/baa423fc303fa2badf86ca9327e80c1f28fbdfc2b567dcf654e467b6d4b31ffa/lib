@@ -1,0 +1,14 @@
+/home/jono/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/include/ghcversion.h:
+  hash: d590b76d2d5f98f01894882dc106d920a101f52edb6a09b9a7f8dc701b075565
+? /media/jono/ExtraDrive1/Projects/exercism-solutions/haskell/acronym/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/autogen/Paths_acronym.hs
+: hash: c6fb46242f7a3d799accff20fa2826faf2792a92e9e9e5bce73bf708bac4c9d4
+? /media/jono/ExtraDrive1/Projects/exercism-solutions/haskell/acronym/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/autogen/cabal_macros.h
+: hash: ddf70366eb617356f9d6c69442d9dd247c259fe03df0ed002a7f04d0a7a590dc
+/media/jono/ExtraDrive1/Projects/exercism-solutions/haskell/acronym/acronym.cabal:
+  hash: eb3700d72bfa05a2efa44293390ddcc0380bafa3b6d015a920b693d68091916e
+/media/jono/ExtraDrive1/Projects/exercism-solutions/haskell/acronym/package.yaml:
+  hash: d5c409150e051fc9738972f2be8ee9147ca3ad63ca87c19ae1dc498dbcb3bc06
+/media/jono/ExtraDrive1/Projects/exercism-solutions/haskell/acronym/src/Acronym.hs:
+  hash: 5986b22a3586f290337cddd1384f1e0043206471858e4218ab837198deaf8c7f
+/usr/include/stdc-predef.h:
+  hash: cb08cd5d4cc059a90833ac48a284d25016e8d56ded8ad4cd98d8ac59cc5053f3
