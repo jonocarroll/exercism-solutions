@@ -1,0 +1,23 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(CircularBufferTest, org.scalatest.tools.Framework$$anon$1@4cdabdc5, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCircularBufferTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Reading empty buffer should fail[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Can read an item just written[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Each item may only be read once[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Items are read in the order they are written[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Full buffer can't be written to[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- A read frees up capacity for another write[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Read position is maintained even across multiple writes[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Items cleared out of buffer can't be read[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Clear frees up capacity for another write[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Clear does nothing on empty buffer[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Overwrite acts like write on non-full buffer[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Overwrite replaces the oldest item on full buffer[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Overwrite replaces the oldest item remaining in buffer following a read[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Initial clear does not affect wrapping around[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 344 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 14[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 14, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CircularBufferTest[0m

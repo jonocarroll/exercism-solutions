@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HelloWorldSpec" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-03-11T22:41:22" hostname="pop-os" time="0.11">
+  <properties/>
+  <testcase name="Say Hi! [expected: Hello, World!, #0]" classname="HelloWorldSpec" time="0.11"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

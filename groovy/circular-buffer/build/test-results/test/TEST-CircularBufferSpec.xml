@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CircularBufferSpec" tests="14" skipped="0" failures="0" errors="0" timestamp="2024-03-11T23:07:03" hostname="pop-os" time="0.224">
+  <properties/>
+  <testcase name="Reading empty buffer should fail" classname="CircularBufferSpec" time="0.081"/>
+  <testcase name="Can read an item just written" classname="CircularBufferSpec" time="0.062"/>
+  <testcase name="Each item may only be read once" classname="CircularBufferSpec" time="0.006"/>
+  <testcase name="Items are read in the order they are written" classname="CircularBufferSpec" time="0.005"/>
+  <testcase name="Full buffer can't be written to" classname="CircularBufferSpec" time="0.007"/>
+  <testcase name="A read frees up capacity for another write" classname="CircularBufferSpec" time="0.005"/>
+  <testcase name="Read position is maintained even across multiple writes" classname="CircularBufferSpec" time="0.005"/>
+  <testcase name="Items cleared out of buffer can't be read" classname="CircularBufferSpec" time="0.005"/>
+  <testcase name="Clear frees up capacity for another write" classname="CircularBufferSpec" time="0.006"/>
+  <testcase name="Clear does nothing on empty buffer" classname="CircularBufferSpec" time="0.004"/>
+  <testcase name="Overwrite acts like write on non-full buffer" classname="CircularBufferSpec" time="0.004"/>
+  <testcase name="Overwrite replaces the oldest item on full buffer" classname="CircularBufferSpec" time="0.005"/>
+  <testcase name="Overwrite replaces the oldest item remaining in buffer following a read" classname="CircularBufferSpec" time="0.008"/>
+  <testcase name="Initial clear does not affect wrapping around" classname="CircularBufferSpec" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

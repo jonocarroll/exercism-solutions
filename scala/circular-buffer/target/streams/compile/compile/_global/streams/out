@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/media/jono/ExtraDrive1/Projects/exercism-solutions/scala/circular-buffer/src/main/scala/CircularBuffer.scala:35:27: not found: value capaity[0m
+[0m[[0m[31merror[0m] [0m[0m          if (this.tail > capaity) {[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

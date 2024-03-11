@@ -17,10 +17,10 @@ I am also completing the
 [\#48in24](https://exercism.org/challenges/48in24) challenge.
 
 Total number of languages explored:
-<span style="font-size:150%"><b>30</b>
+<span style="font-size:150%"><b>32</b>
 </p>
 Total number of exercises completed:
-<span style="font-size:150%"><b>155</b>
+<span style="font-size:150%"><b>160</b>
 </p>
 
 ## Number of Exercises Completed per Language
@@ -38,21 +38,23 @@ Total number of exercises completed:
 | <img height='40px' src='./.logos/javascript.png'></image>      | <a href="./javascript/">javascript</a>           |         7 |
 | <img height='40px' src='./.logos/python.png'></image>          | <a href="./python/">python</a>                   |         7 |
 | <img height='40px' src='./.logos/ruby.png'></image>            | <a href="./ruby/">ruby</a>                       |         7 |
+| <img height='40px' src='./.logos/scala.png'></image>           | <a href="./scala/">scala</a>                     |         7 |
 | <img height='40px' src='./.logos/bash.png'></image>            | <a href="./bash/">bash</a>                       |         6 |
 | <img height='40px' src='./.logos/fortran.png'></image>         | <a href="./fortran/">fortran</a>                 |         6 |
 | <img height='40px' src='./.logos/lua.png'></image>             | <a href="./lua/">lua</a>                         |         6 |
 | <img height='40px' src='./.logos/ocaml.png'></image>           | <a href="./ocaml/">ocaml</a>                     |         6 |
 | <img height='40px' src='./.logos/rust.png'></image>            | <a href="./rust/">rust</a>                       |         6 |
-| <img height='40px' src='./.logos/scala.png'></image>           | <a href="./scala/">scala</a>                     |         6 |
 | <img height='40px' src='./.logos/tcl.png'></image>             | <a href="./tcl/">tcl</a>                         |         6 |
 | <img height='40px' src='./.logos/vlang.png'></image>           | <a href="./vlang/">vlang</a>                     |         6 |
 | <img height='40px' src='./.logos/x86-64-assembly.png'></image> | <a href="./x86-64-assembly/">x86-64-assembly</a> |         6 |
 | <img height='40px' src='./.logos/fsharp.png'></image>          | <a href="./fsharp/">fsharp</a>                   |         3 |
+| <img height='40px' src='./.logos/c.png'></image>               | <a href="./c/">c</a>                             |         2 |
 | <img height='40px' src='./.logos/cpp.png'></image>             | <a href="./cpp/">cpp</a>                         |         2 |
 | <img height='40px' src='./.logos/crystal.png'></image>         | <a href="./crystal/">crystal</a>                 |         2 |
 | <img height='40px' src='./.logos/csharp.png'></image>          | <a href="./csharp/">csharp</a>                   |         2 |
 | <img height='40px' src='./.logos/elixir.png'></image>          | <a href="./elixir/">elixir</a>                   |         2 |
 | <img height='40px' src='./.logos/gleam.png'></image>           | <a href="./gleam/">gleam</a>                     |         2 |
+| <img height='40px' src='./.logos/groovy.png'></image>          | <a href="./groovy/">groovy</a>                   |         2 |
 | <img height='40px' src='./.logos/mips.png'></image>            | <a href="./mips/">mips</a>                       |         2 |
 | <img height='40px' src='./.logos/nim.png'></image>             | <a href="./nim/">nim</a>                         |         2 |
 | <img height='40px' src='./.logos/pharo-smalltalk.png'></image> | <a href="./pharo-smalltalk/">pharo-smalltalk</a> |         2 |

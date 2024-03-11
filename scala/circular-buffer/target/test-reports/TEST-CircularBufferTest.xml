@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite hostname="pop-os" name="CircularBufferTest" tests="14" errors="0" failures="0" skipped="0" time="0.03" timestamp="2024-03-10T10:11:21">
+          <properties>
+      <property name="java.specification.version" value="17"/><property name="sun.jnu.encoding" value="UTF-8"/><property name="sun.arch.data.model" value="64"/><property name="java.vendor.url" value="https://java.oracle.com/"/><property name="sun.boot.library.path" value="/usr/lib/jvm/java-17-oracle/lib"/><property name="sun.java.command" value="/home/jono/.cache/coursier/arc/https/github.com/sbt/sbt/releases/download/v1.8.2/sbt-1.8.2.zip/sbt/bin/sbt-launch.jar test"/><property name="jdk.debug" value="release"/><property name="sun.stderr.encoding" value="UTF-8"/><property name="java.specification.vendor" value="Oracle Corporation"/><property name="java.version.date" value="2023-01-17"/><property name="java.home" value="/usr/lib/jvm/java-17-oracle"/><property name="file.separator" value="/"/><property name="java.vm.compressedOopsMode" value="32-bit"/><property name="line.separator" value="
+"/><property name="sun.stdout.encoding" value="UTF-8"/><property name="java.vm.specification.vendor" value="Oracle Corporation"/><property name="java.specification.name" value="Java Platform API Specification"/><property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/><property name="java.runtime.version" value="17.0.6+9-LTS-190"/><property name="user.name" value="jono"/><property name="log4j.ignoreTCL" value="true"/><property name="file.encoding" value="UTF-8"/><property name="jnidispatch.path" value="/home/jono/.cache/JNA/temp/jna5619607593207464276.tmp"/><property name="jna.loaded" value="true"/><property name="java.io.tmpdir" value="/tmp"/><property name="java.version" value="17.0.6"/><property name="java.vm.specification.name" value="Java Virtual Machine Specification"/><property name="native.encoding" value="UTF-8"/><property name="java.library.path" value="/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib"/><property name="java.vendor" value="Oracle Corporation"/><property name="scala.ext.dirs" value="/home/jono/.sbt/1.0/java9-rt-ext-oracle_corporation_17_0_6"/><property name="sun.io.unicode.encoding" value="UnicodeLittle"/><property name="java.class.path" value="/home/jono/.cache/coursier/arc/https/github.com/sbt/sbt/releases/download/v1.8.2/sbt-1.8.2.zip/sbt/bin/sbt-launch.jar"/><property name="java.vm.vendor" value="Oracle Corporation"/><property name="jline.shutdownhook" value="false"/><property name="user.timezone" value="Australia/Adelaide"/><property name="java.vm.specification.version" value="17"/><property name="os.name" value="Linux"/><property name="sun.java.launcher" value="SUN_STANDARD"/><property name="user.country" value="AU"/><property name="sun.cpu.endian" value="little"/><property name="user.home" value="/home/jono"/><property name="user.language" value="en"/><property name="sbt.script" value="/home/jono/.cache/coursier/arc/https/github.com/sbt/sbt/releases/download/v1.8.2/sbt-1.8.2.zip/sbt/bin/sbt"/><property name="sbt.ipcsocket.tmpdir" value="/run/user/1000/.sbtceaa01cd/ipcsocket"/><property name="swoval.tmpdir" value="/run/user/1000/.sbtceaa01cd/swoval"/><property name="jline.esc.timeout" value="0"/><property name="path.separator" value=":"/><property name="os.version" value="6.5.6-76060506-generic"/><property name="jna.nosys" value="true"/><property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/><property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/><property name="jna.platform.library.path" value="/usr/lib/x86_64-linux-gnu:/lib/x86_64-linux-gnu:/usr/lib64:/lib64:/usr/lib:/lib:/lib/i386-linux-gnu:/lib32:/lib/i386-linux-gnu/sse2:/usr/lib/x86_64-linux-gnu/pipewire-0.3/jack:/usr/lib/x86_64-linux-gnu/libfakeroot"/><property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/><property name="user.dir" value="/media/jono/ExtraDrive1/Projects/exercism-solutions/scala/circular-buffer"/><property name="os.arch" value="amd64"/><property name="java.vm.info" value="mixed mode, sharing"/><property name="java.vm.version" value="17.0.6+9-LTS-190"/><property name="java.class.version" value="61.0"/>
+    </properties>
+          <testcase classname="CircularBufferTest" name="Reading empty buffer should fail" time="0.016">
+                      
+                    </testcase><testcase classname="CircularBufferTest" name="Can read an item just written" time="0.009">
+                      
+                    </testcase><testcase classname="CircularBufferTest" name="Each item may only be read once" time="0.001">
+                      
+                    </testcase><testcase classname="CircularBufferTest" name="Items are read in the order they are written" time="0.001">
+                      
+                    </testcase><testcase classname="CircularBufferTest" name="Full buffer can't be written to" time="0.001">
+                      
+                    </testcase><testcase classname="CircularBufferTest" name="A read frees up capacity for another write" time="0.0">
+                      
+                    </testcase><testcase classname="CircularBufferTest" name="Read position is maintained even across multiple writes" time="0.0">
+                      
+                    </testcase><testcase classname="CircularBufferTest" name="Items cleared out of buffer can't be read" time="0.0">
+                      
+                    </testcase><testcase classname="CircularBufferTest" name="Clear frees up capacity for another write" time="0.001">
+                      
+                    </testcase><testcase classname="CircularBufferTest" name="Clear does nothing on empty buffer" time="0.0">
+                      
+                    </testcase><testcase classname="CircularBufferTest" name="Overwrite acts like write on non-full buffer" time="0.0">
+                      
+                    </testcase><testcase classname="CircularBufferTest" name="Overwrite replaces the oldest item on full buffer" time="0.0">
+                      
+                    </testcase><testcase classname="CircularBufferTest" name="Overwrite replaces the oldest item remaining in buffer following a read" time="0.0">
+                      
+                    </testcase><testcase classname="CircularBufferTest" name="Initial clear does not affect wrapping around" time="0.001">
+                      
+                    </testcase>
+          <system-out><![CDATA[]]></system-out>
+          <system-err><![CDATA[]]></system-err>
+        </testsuite>
