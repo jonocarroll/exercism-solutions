@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ParallelLetterFrequencyTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2024-03-26T00:01:53" hostname="pop-os" time="0.118">
+  <properties/>
+  <testcase name="testTwoTextsWithOneLetter()" classname="ParallelLetterFrequencyTest" time="0.065"/>
+  <testcase name="testIgnoreWhitespace()" classname="ParallelLetterFrequencyTest" time="0.001"/>
+  <testcase name="testOneTextWithOneLetter()" classname="ParallelLetterFrequencyTest" time="0.002"/>
+  <testcase name="testManySmallTexts()" classname="ParallelLetterFrequencyTest" time="0.008"/>
+  <testcase name="testOneTextWithMultipleLetters()" classname="ParallelLetterFrequencyTest" time="0.002"/>
+  <testcase name="testCombinationOfLowerAndUppercaseLettersPunctuationAndWhiteSpace()" classname="ParallelLetterFrequencyTest" time="0.002"/>
+  <testcase name="testIgnorePunctuation()" classname="ParallelLetterFrequencyTest" time="0.002"/>
+  <testcase name="testTwoTextsWithMultipleLetters()" classname="ParallelLetterFrequencyTest" time="0.002"/>
+  <testcase name="testIgnoreLetterCasing()" classname="ParallelLetterFrequencyTest" time="0.002"/>
+  <testcase name="testIgnoreNumbers()" classname="ParallelLetterFrequencyTest" time="0.003"/>
+  <testcase name="testLargeTexts()" classname="ParallelLetterFrequencyTest" time="0.006"/>
+  <testcase name="testUnicodeLetters()" classname="ParallelLetterFrequencyTest" time="0.002"/>
+  <testcase name="testNoTexts()" classname="ParallelLetterFrequencyTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
