@@ -17,10 +17,10 @@ I am also completing the
 [\#48in24](https://exercism.org/challenges/48in24) challenge.
 
 Total number of languages explored:
-<span style="font-size:150%"><b>32</b>
+<span style="font-size:150%"><b>33</b>
 </p>
 Total number of exercises completed:
-<span style="font-size:150%"><b>160</b>
+<span style="font-size:150%"><b>164</b>
 </p>
 
 ## Number of Exercises Completed per Language
@@ -32,8 +32,8 @@ Total number of exercises completed:
 | <img height='40px' src='./.logos/haskell.png'></image>         | <a href="./haskell/">haskell</a>                 |        12 |
 | <img height='40px' src='./.logos/r.png'></image>               | <a href="./r/">r</a>                             |        10 |
 | <img height='40px' src='./.logos/clojure.png'></image>         | <a href="./clojure/">clojure</a>                 |         9 |
+| <img height='40px' src='./.logos/go.png'></image>              | <a href="./go/">go</a>                           |         9 |
 | <img height='40px' src='./.logos/julia.png'></image>           | <a href="./julia/">julia</a>                     |         9 |
-| <img height='40px' src='./.logos/go.png'></image>              | <a href="./go/">go</a>                           |         8 |
 | <img height='40px' src='./.logos/common-lisp.png'></image>     | <a href="./common-lisp/">common-lisp</a>         |         7 |
 | <img height='40px' src='./.logos/javascript.png'></image>      | <a href="./javascript/">javascript</a>           |         7 |
 | <img height='40px' src='./.logos/python.png'></image>          | <a href="./python/">python</a>                   |         7 |
@@ -47,14 +47,15 @@ Total number of exercises completed:
 | <img height='40px' src='./.logos/tcl.png'></image>             | <a href="./tcl/">tcl</a>                         |         6 |
 | <img height='40px' src='./.logos/vlang.png'></image>           | <a href="./vlang/">vlang</a>                     |         6 |
 | <img height='40px' src='./.logos/x86-64-assembly.png'></image> | <a href="./x86-64-assembly/">x86-64-assembly</a> |         6 |
+| <img height='40px' src='./.logos/elixir.png'></image>          | <a href="./elixir/">elixir</a>                   |         3 |
 | <img height='40px' src='./.logos/fsharp.png'></image>          | <a href="./fsharp/">fsharp</a>                   |         3 |
 | <img height='40px' src='./.logos/c.png'></image>               | <a href="./c/">c</a>                             |         2 |
 | <img height='40px' src='./.logos/cpp.png'></image>             | <a href="./cpp/">cpp</a>                         |         2 |
 | <img height='40px' src='./.logos/crystal.png'></image>         | <a href="./crystal/">crystal</a>                 |         2 |
 | <img height='40px' src='./.logos/csharp.png'></image>          | <a href="./csharp/">csharp</a>                   |         2 |
-| <img height='40px' src='./.logos/elixir.png'></image>          | <a href="./elixir/">elixir</a>                   |         2 |
 | <img height='40px' src='./.logos/gleam.png'></image>           | <a href="./gleam/">gleam</a>                     |         2 |
 | <img height='40px' src='./.logos/groovy.png'></image>          | <a href="./groovy/">groovy</a>                   |         2 |
+| <img height='40px' src='./.logos/java.png'></image>            | <a href="./java/">java</a>                       |         2 |
 | <img height='40px' src='./.logos/mips.png'></image>            | <a href="./mips/">mips</a>                       |         2 |
 | <img height='40px' src='./.logos/nim.png'></image>             | <a href="./nim/">nim</a>                         |         2 |
 | <img height='40px' src='./.logos/pharo-smalltalk.png'></image> | <a href="./pharo-smalltalk/">pharo-smalltalk</a> |         2 |
