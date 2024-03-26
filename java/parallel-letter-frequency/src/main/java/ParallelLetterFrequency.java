@@ -1,9 +1,5 @@
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
-<<<<<<< HEAD
-=======
-//import java.util.concurrent.atomic.AtomicInteger;
->>>>>>> 4d50dbcf694e4dcc11fd36ec5decc04c7a3cb9be
 
 class ParallelLetterFrequency {
 
@@ -15,10 +11,7 @@ class ParallelLetterFrequency {
 
     Map<Character, Integer> countLetters() {
         Map<Character, Integer> letterCount = new ConcurrentHashMap<>();
-<<<<<<< HEAD
-=======
-        // AtomicInteger nextIndex = new AtomicInteger(0);
->>>>>>> 4d50dbcf694e4dcc11fd36ec5decc04c7a3cb9be
+
         int numThreads = texts.length;
         Thread[] threads = new Thread[numThreads];
 
