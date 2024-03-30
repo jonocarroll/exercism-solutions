@@ -20,7 +20,7 @@ Total number of languages explored:
 <span style="font-size:150%"><b>34</b>
 </p>
 Total number of exercises completed:
-<span style="font-size:150%"><b>168</b>
+<span style="font-size:150%"><b>170</b>
 </p>
 
 ## Number of Exercises Completed per Language
@@ -30,17 +30,17 @@ Total number of exercises completed:
 | logo                                                           | language                                         | exercises |
 |:---------------------------------------------------------------|:-------------------------------------------------|----------:|
 | <img height='40px' src='./.logos/haskell.png'></image>         | <a href="./haskell/">haskell</a>                 |        12 |
-| <img height='40px' src='./.logos/r.png'></image>               | <a href="./r/">r</a>                             |        10 |
+| <img height='40px' src='./.logos/r.png'></image>               | <a href="./r/">r</a>                             |        11 |
 | <img height='40px' src='./.logos/clojure.png'></image>         | <a href="./clojure/">clojure</a>                 |         9 |
 | <img height='40px' src='./.logos/go.png'></image>              | <a href="./go/">go</a>                           |         9 |
 | <img height='40px' src='./.logos/julia.png'></image>           | <a href="./julia/">julia</a>                     |         9 |
+| <img height='40px' src='./.logos/bash.png'></image>            | <a href="./bash/">bash</a>                       |         7 |
 | <img height='40px' src='./.logos/common-lisp.png'></image>     | <a href="./common-lisp/">common-lisp</a>         |         7 |
 | <img height='40px' src='./.logos/javascript.png'></image>      | <a href="./javascript/">javascript</a>           |         7 |
 | <img height='40px' src='./.logos/python.png'></image>          | <a href="./python/">python</a>                   |         7 |
 | <img height='40px' src='./.logos/ruby.png'></image>            | <a href="./ruby/">ruby</a>                       |         7 |
 | <img height='40px' src='./.logos/rust.png'></image>            | <a href="./rust/">rust</a>                       |         7 |
 | <img height='40px' src='./.logos/scala.png'></image>           | <a href="./scala/">scala</a>                     |         7 |
-| <img height='40px' src='./.logos/bash.png'></image>            | <a href="./bash/">bash</a>                       |         6 |
 | <img height='40px' src='./.logos/fortran.png'></image>         | <a href="./fortran/">fortran</a>                 |         6 |
 | <img height='40px' src='./.logos/lua.png'></image>             | <a href="./lua/">lua</a>                         |         6 |
 | <img height='40px' src='./.logos/ocaml.png'></image>           | <a href="./ocaml/">ocaml</a>                     |         6 |
